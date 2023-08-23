@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.10) (preloaded format=xelatex 2022.11.17)  22 AUG 2023 20:47
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.10) (preloaded format=xelatex 2022.11.17)  23 AUG 2023 21:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -996,7 +996,8 @@ LaTeX Warning: Unused global option(s):
     [oneside,12pt].
 
 (AUTthesis.aux (chapter1.aux) (chapter2.aux) (chapter3.aux) (chapter4.aux)
-(chapter5.aux) (appendix1.aux) (dicfa2en.aux) (dicen2fa.aux) (en-abstract.aux))
+(chapter5.aux) (chapter6.aux) (appendix1.aux) (dicfa2en.aux) (dicen2fa.aux)
+(en-abstract.aux))
 \openout1 = `AUTthesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
@@ -1010,6 +1011,7 @@ LaTeX Font Info:    ... okay on input line 32.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
 2.
+
 (C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
@@ -1068,21 +1070,21 @@ Package hyperref Info: Link coloring ON on input line 32.
 File: fa-logo.png Graphic file (type bmp)
 <fa-logo.png>
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
-(Font)              scaled to size 14.39996pt on input line 38.
+(Font)              scaled to size 14.39996pt on input line 42.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
-(Font)              scaled to size 19.19995pt on input line 38.
+(Font)              scaled to size 19.19995pt on input line 42.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
-(Font)              scaled to size 16.79996pt on input line 38.
+(Font)              scaled to size 16.79996pt on input line 42.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
-(Font)              scaled to size 19.19995pt on input line 38.
+(Font)              scaled to size 19.19995pt on input line 42.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
-(Font)              scaled to size 23.99994pt on input line 38.
+(Font)              scaled to size 23.99994pt on input line 42.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
-(Font)              scaled to size 23.99994pt on input line 38.
+(Font)              scaled to size 23.99994pt on input line 42.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
-(Font)              scaled to size 21.59995pt on input line 38.
+(Font)              scaled to size 21.59995pt on input line 42.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
-(Font)              scaled to size 21.59995pt on input line 38.
+(Font)              scaled to size 21.59995pt on input line 42.
  [1
 
 ]
@@ -1154,7 +1156,16 @@ LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
 (Font)              scaled to size 24.88794pt on input line 7.
  (AUTthesis.toc [2
 
-])
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[3])
 \tf@toc=\write5
 \openout5 = `AUTthesis.toc'.
 
@@ -1167,7 +1178,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[3] (AUTthesis.lof)
+[4] (AUTthesis.lof)
 \tf@lof=\write6
 \openout6 = `AUTthesis.lof'.
 
@@ -1180,7 +1191,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[4
+[5
 
 ] (AUTthesis.lot)
 \tf@lot=\write7
@@ -1195,7 +1206,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[5
+[6
 
 ]) (list-of-symbols.tex
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
@@ -1225,7 +1236,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[6
+[7
 
 
 ])
@@ -1500,7 +1511,79 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[22] (AUTthesis.bbl
+[22]
+\openout2 = `chapter6.aux'.
+
+ (chapter6.tex
+فصل 6.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[23
+
+
+
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[24]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[25]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[26]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[27]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[28])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[29] (AUTthesis.bbl
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 (Font)              scaled to size 29.85593pt on input line 4.
 
@@ -1510,14 +1593,14 @@ LaTeX Font Warning: Font shape `TU/BNazanin(0)/m/it' undefined
 
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/it' will be
 (Font)              scaled to size 14.39996pt on input line 34.
-) [23
+) [30
 
 
 
 ]
 \openout2 = `appendix1.aux'.
 
- (appendix1.tex) [24
+ (appendix1.tex) [31
 
 
 ]
@@ -1528,7 +1611,7 @@ Missing character: There is no p in font B Nazanin/OT:language=dflt;script=arab
 ;mapping=persian-tex-text;!
 Missing character: There is no p in font B Nazanin/OT:language=dflt;script=arab
 ;mapping=persian-tex-text;!
-[25
+[32
 
 
 
@@ -1546,7 +1629,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[26])
+[33])
 \openout2 = `dicen2fa.aux'.
 
  (dicen2fa.tex
@@ -1554,7 +1637,7 @@ Missing character: There is no p in font B Nazanin/OT:language=dflt;script=arab
 ;mapping=persian-tex-text;!
 Missing character: There is no p in font B Nazanin/OT:language=dflt;script=arab
 ;mapping=persian-tex-text;!
-[27
+[34
 
 
 
@@ -1573,30 +1656,30 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[28]
+[35]
 No file AUTthesis.ind.
 \openout2 = `en-abstract.aux'.
 
-(en-abstract.tex) [29
+(en-abstract.tex) [36
 
 
 
 ] (en_title.tex) (AUTthesis.aux (chapter1.aux)
-(chapter2.aux) (chapter3.aux) (chapter4.aux) (chapter5.aux) (appendix1.aux)
-(dicfa2en.aux) (dicen2fa.aux) (en-abstract.aux))
+(chapter2.aux) (chapter3.aux) (chapter4.aux) (chapter5.aux) (chapter6.aux)
+(appendix1.aux) (dicfa2en.aux) (dicen2fa.aux) (en-abstract.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: 4176763BC863CBBE26B813037C749022;9255.
+(rerunfilecheck)             Checksum: 1002D1353CDEA4D9764DC7704641D769;14769.
  ) 
 Here is how much of TeX's memory you used:
- 18345 strings out of 410532
- 364970 string characters out of 2813704
+ 18380 strings out of 410532
+ 365797 string characters out of 2813704
  819250 words of memory out of 3000000
- 39058 multiletter control sequences out of 15000+600000
+ 39086 multiletter control sequences out of 15000+600000
  478584 words of font info for 132 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 92i,11n,94p,2408b,492s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 92i,12n,94p,2408b,492s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on AUTthesis.pdf (41 pages).
+Output written on AUTthesis.pdf (49 pages).

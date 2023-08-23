@@ -1,7 +1,7 @@
 \edef \SavedTocDepth {\the \value {tocdepth}}
 \setcounter {tocdepth}{-10}
-\contentsline {chapter}{فهرست تصاویر}{د}{section*.4}%
-\contentsline {chapter}{فهرست جداول}{ه}{section*.5}%
+\contentsline {chapter}{فهرست تصاویر}{ه}{section*.4}%
+\contentsline {chapter}{فهرست جداول}{و}{section*.5}%
 \par عنوان\hfill صفحه \par 
 \setcounter {tocdepth}{\SavedTocDepth }
 \contentsline {chapter}{\numberline {1}راهنمای استفاده از الگوی لاتک دانشگاه صنعتی امیرکبیر(پلی‌تکنیک تهران)}{1}{chapter.1}%
@@ -46,8 +46,30 @@
 \contentsline {section}{\numberline {4-8}رعایت مراحل اصولی نگارش}{19}{section.4.8}%
 \contentsline {chapter}{\numberline {5}جمع‌بندي و نتيجه‌گيري و پیشنهادات}{21}{chapter.5}%
 \contentsline {section}{\numberline {5-1}پیشنهادات}{22}{section.5.1}%
-\contentsline {chapter}{کتاب‌نامه}{23}{appendix*.6}%
-\contentsline {chapter}{پیوست}{24}{appendix*.7}%
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{25}{appendix*.9}%
-\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{27}{appendix*.10}%
+\contentsline {chapter}{\numberline {6}علم مخابرات}{23}{chapter.6}%
+\contentsline {section}{\numberline {6-1}مقدمه‌ای بر علم مخابرات}{24}{section.6.1}%
+\contentsline {subsection}{\numberline {6-1-1} اصول اساسی مخابرات }{24}{subsection.6.1.1}%
+\contentsline {section}{\numberline {6-2}کاربردها و گستره علم مخابرات}{24}{section.6.2}%
+\contentsline {subsection}{\numberline {6-2-1}کاربردهای اصلی مخابرات}{24}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6-2-2}گستره علم مخابرات}{25}{subsection.6.2.2}%
+\contentsline {section}{\numberline {6-3}آغاز و پیشینه تاریخی علم مخابرات}{26}{section.6.3}%
+\contentsline {subsection}{\numberline {6-3-1}سازوکارهای اولیه}{26}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6-3-2}استفاده از حیوانات و افراد}{26}{subsection.6.3.2}%
+\contentsline {subsection}{\numberline {6-3-3}اختراع رادیو}{26}{subsection.6.3.3}%
+\contentsline {section}{\numberline {6-4}تکنولوژی مخابرات در قرن بیست و یکم}{27}{section.6.4}%
+\contentsline {subsection}{\numberline {6-4-1}انقلاب دیجیتالی و اینترنت}{27}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6-4-2}شبکه‌های اجتماعی و ارتباطات اجتماعی آنلاین}{27}{subsection.6.4.2}%
+\contentsline {subsection}{\numberline {6-4-3}مخابرات \lr {5G} و پیشرفت‌های آینده}{27}{subsection.6.4.3}%
+\contentsline {subsection}{\numberline {6-4-4}تاریخچه مخابرات بیسیم}{28}{subsection.6.4.4}%
+\contentsline {subsection}{\numberline {6-4-5}انواع مخابرات بیسیم}{28}{subsection.6.4.5}%
+\contentsline {subsection}{\numberline {6-4-6}کاربردهای مخابرات بیسیم}{28}{subsection.6.4.6}%
+\contentsline {section}{\numberline {6-5} مخابرات سلولی }{28}{section.6.5}%
+\contentsline {subsection}{\numberline {6-5-1}تعریف}{28}{subsection.6.5.1}%
+\contentsline {subsection}{\numberline {6-5-2}تقسیمات شبکه‌های سلولی}{28}{subsection.6.5.2}%
+\contentsline {subsection}{\numberline {6-5-3}تکنولوژی‌های نسل‌های مختلف تلفن همراه}{29}{subsection.6.5.3}%
+\contentsline {subsection}{\numberline {6-5-4}تغییرات اجتماعی و اقتصادی از طریق مخابرات سلولی}{29}{subsection.6.5.4}%
+\contentsline {chapter}{کتاب‌نامه}{30}{appendix*.8}%
+\contentsline {chapter}{پیوست}{31}{appendix*.9}%
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{32}{appendix*.11}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{34}{appendix*.12}%
 \contentsfinish 
