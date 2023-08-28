@@ -4,72 +4,76 @@
 \contentsline {chapter}{فهرست جداول}{و}{section*.5}%
 \par عنوان\hfill صفحه \par 
 \setcounter {tocdepth}{\SavedTocDepth }
-\contentsline {chapter}{\numberline {1}راهنمای استفاده از الگوی لاتک دانشگاه صنعتی امیرکبیر(پلی‌تکنیک تهران)}{1}{chapter.1}%
-\contentsline {section}{\numberline {1-1}مقدمه}{2}{section.1.1}%
-\contentsline {section}{\numberline {1-2}این همه فایل؟!}{2}{section.1.2}%
-\contentsline {section}{\numberline {1-3}از کجا شروع کنم؟}{3}{section.1.3}%
-\contentsline {section}{\numberline {1-4}مطالب پایان‌نامه را چطور بنویسم؟}{4}{section.1.4}%
-\contentsline {subsection}{\numberline {1-4-1}نوشتن فصل‌ها}{4}{subsection.1.4.1}%
-\contentsline {subsection}{\numberline {1-4-2}مراجع}{5}{subsection.1.4.2}%
-\contentsline {subsection}{\numberline {1-4-3}واژه‌نامه فارسی به انگلیسی و برعکس}{5}{subsection.1.4.3}%
-\contentsline {section}{\numberline {1-5}اگر سوالی داشتم، از کی بپرسم؟}{5}{section.1.5}%
-\contentsline {chapter}{\numberline {2}طریقه‌ی مرجع نویسی و واژه‌نامه‌}{6}{chapter.2}%
-\contentsline {section}{\numberline {2-1}طریقه‌ی مرجع نویسی}{7}{section.2.1}%
-\contentsline {subsection}{\numberline {2-1-1}بارگیری مراجع}{7}{subsection.2.1.1}%
-\contentsline {subsection}{\numberline {2-1-2}روش ارجاع در متن}{8}{subsection.2.1.2}%
-\contentsline {subsection}{\numberline {2-1-3}روش اجرای برنامه}{9}{subsection.2.1.3}%
-\contentsline {subsection}{\numberline {2-1-4}مراجع فارسی}{9}{subsection.2.1.4}%
-\contentsline {section}{\numberline {2-2}راهنمای واژه‌نامه}{9}{section.2.2}%
-\contentsline {section}{\numberline {2-3}ساخت نمایه}{10}{section.2.3}%
-\contentsline {subsection}{\numberline {2-3-1}ساخت نمایه}{10}{subsection.2.3.1}%
-\contentsline {chapter}{\numberline {3}نگارش صحيح}{11}{chapter.3}%
-\contentsline {section}{\numberline {3-1}مقدمه}{12}{section.3.1}%
-\contentsline {section}{\numberline {3-2}فارسی نویسی}{12}{section.3.2}%
-\contentsline {section}{\numberline {3-3}رعایت املای صحيح }{13}{section.3.3}%
-\contentsline {section}{\numberline {3-4}رعایت قواعد نشانه‌گذاری}{13}{section.3.4}%
-\contentsline {subsection}{\numberline {3-4-1}ويرگول}{13}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3-4-2}نقطه}{14}{subsection.3.4.2}%
-\contentsline {subsection}{\numberline {3-4-3}دونقطه}{14}{subsection.3.4.3}%
-\contentsline {subsection}{\numberline {3-4-4}گیومه}{14}{subsection.3.4.4}%
-\contentsline {subsection}{\numberline {3-4-5}نشانه پرسشی}{14}{subsection.3.4.5}%
-\contentsline {subsection}{\numberline {3-4-6}خط تیره}{15}{subsection.3.4.6}%
-\contentsline {subsection}{\numberline {3-4-7}پرانتز}{15}{subsection.3.4.7}%
-\contentsline {section}{\numberline {3-5}جدا یا سرهم نوشتن برخی کلمات}{15}{section.3.5}%
-\contentsline {chapter}{\numberline {4}مشخصات یک پایان نامه و گزارش علمی}{17}{chapter.4}%
-\contentsline {section}{\numberline {4-1}برخورداری از غنای علمی }{18}{section.4.1}%
-\contentsline {section}{\numberline {4-2}ارجاع به‌موقع و صحیح به منابع دیگر}{18}{section.4.2}%
-\contentsline {section}{\numberline {4-3}ساده‌نویسی }{18}{section.4.3}%
-\contentsline {section}{\numberline {4-4}وحدت موضوع}{19}{section.4.4}%
-\contentsline {section}{\numberline {4-5}اختصار}{19}{section.4.5}%
-\contentsline {section}{\numberline {4-6}رعایت نكات دستوري و نشانه‌گذاري}{19}{section.4.6}%
-\contentsline {section}{\numberline {4-7}توجه به معلومات ذهنی مخاطب}{19}{section.4.7}%
-\contentsline {section}{\numberline {4-8}رعایت مراحل اصولی نگارش}{19}{section.4.8}%
-\contentsline {chapter}{\numberline {5}جمع‌بندي و نتيجه‌گيري و پیشنهادات}{21}{chapter.5}%
-\contentsline {section}{\numberline {5-1}پیشنهادات}{22}{section.5.1}%
-\contentsline {chapter}{\numberline {6}علم مخابرات}{23}{chapter.6}%
-\contentsline {section}{\numberline {6-1}مقدمه‌ای بر علم مخابرات}{24}{section.6.1}%
-\contentsline {subsection}{\numberline {6-1-1} اصول اساسی مخابرات }{24}{subsection.6.1.1}%
-\contentsline {section}{\numberline {6-2}کاربردها و گستره علم مخابرات}{24}{section.6.2}%
-\contentsline {subsection}{\numberline {6-2-1}کاربردهای اصلی مخابرات}{24}{subsection.6.2.1}%
-\contentsline {subsection}{\numberline {6-2-2}گستره علم مخابرات}{25}{subsection.6.2.2}%
-\contentsline {section}{\numberline {6-3}آغاز و پیشینه تاریخی علم مخابرات}{26}{section.6.3}%
-\contentsline {subsection}{\numberline {6-3-1}سازوکارهای اولیه}{26}{subsection.6.3.1}%
-\contentsline {subsection}{\numberline {6-3-2}استفاده از حیوانات و افراد}{26}{subsection.6.3.2}%
-\contentsline {subsection}{\numberline {6-3-3}اختراع رادیو}{26}{subsection.6.3.3}%
-\contentsline {section}{\numberline {6-4}تکنولوژی مخابرات در قرن بیست و یکم}{27}{section.6.4}%
-\contentsline {subsection}{\numberline {6-4-1}انقلاب دیجیتالی و اینترنت}{27}{subsection.6.4.1}%
-\contentsline {subsection}{\numberline {6-4-2}شبکه‌های اجتماعی و ارتباطات اجتماعی آنلاین}{27}{subsection.6.4.2}%
-\contentsline {subsection}{\numberline {6-4-3}مخابرات \lr {5G} و پیشرفت‌های آینده}{27}{subsection.6.4.3}%
-\contentsline {subsection}{\numberline {6-4-4}تاریخچه مخابرات بیسیم}{28}{subsection.6.4.4}%
-\contentsline {subsection}{\numberline {6-4-5}انواع مخابرات بیسیم}{28}{subsection.6.4.5}%
-\contentsline {subsection}{\numberline {6-4-6}کاربردهای مخابرات بیسیم}{28}{subsection.6.4.6}%
-\contentsline {section}{\numberline {6-5} مخابرات سلولی }{28}{section.6.5}%
-\contentsline {subsection}{\numberline {6-5-1}تعریف}{28}{subsection.6.5.1}%
-\contentsline {subsection}{\numberline {6-5-2}تقسیمات شبکه‌های سلولی}{28}{subsection.6.5.2}%
-\contentsline {subsection}{\numberline {6-5-3}تکنولوژی‌های نسل‌های مختلف تلفن همراه}{29}{subsection.6.5.3}%
-\contentsline {subsection}{\numberline {6-5-4}تغییرات اجتماعی و اقتصادی از طریق مخابرات سلولی}{29}{subsection.6.5.4}%
-\contentsline {chapter}{کتاب‌نامه}{30}{appendix*.8}%
-\contentsline {chapter}{پیوست}{31}{appendix*.9}%
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{32}{appendix*.11}%
-\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{34}{appendix*.12}%
+\contentsline {chapter}{\numberline {1}علم مخابرات}{1}{chapter.1}%
+\contentsline {section}{\numberline {1-1}مقدمه‌ای بر علم مخابرات}{3}{section.1.1}%
+\contentsline {subsection}{\numberline {1-1-1} اصول اساسی مخابرات }{3}{subsection.1.1.1}%
+\contentsline {section}{\numberline {1-2}کاربردها و گستره علم مخابرات}{3}{section.1.2}%
+\contentsline {subsection}{\numberline {1-2-1}کاربردهای اصلی مخابرات}{3}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1-2-2}گستره علم مخابرات}{4}{subsection.1.2.2}%
+\contentsline {section}{\numberline {1-3}آغاز و پیشینه تاریخی علم مخابرات}{5}{section.1.3}%
+\contentsline {subsection}{\numberline {1-3-1}سازوکارهای اولیه}{5}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1-3-2}استفاده از حیوانات و افراد}{5}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1-3-3}اختراع رادیو}{5}{subsection.1.3.3}%
+\contentsline {section}{\numberline {1-4}تکنولوژی مخابرات در قرن بیست و یکم}{6}{section.1.4}%
+\contentsline {subsection}{\numberline {1-4-1}انقلاب دیجیتالی و اینترنت}{6}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1-4-2}شبکه‌های اجتماعی و ارتباطات اجتماعی آنلاین}{6}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1-4-3}مخابرات \lr {5G} و پیشرفت‌های آینده}{6}{subsection.1.4.3}%
+\contentsline {section}{\numberline {1-5} مخابرات سیار یا مخابرات بیسیم }{6}{section.1.5}%
+\contentsline {subsection}{\numberline {1-5-1} تعریف }{6}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1-5-2}تاریخچه مخابرات بیسیم}{7}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1-5-3}انواع مخابرات بیسیم}{7}{subsection.1.5.3}%
+\contentsline {subsection}{\numberline {1-5-4}کاربردهای مخابرات بیسیم}{7}{subsection.1.5.4}%
+\contentsline {section}{\numberline {1-6} مخابرات سلولی }{7}{section.1.6}%
+\contentsline {subsection}{\numberline {1-6-1}تعریف}{7}{subsection.1.6.1}%
+\contentsline {subsection}{\numberline {1-6-2}تقسیمات شبکه‌های سلولی}{7}{subsection.1.6.2}%
+\contentsline {subsection}{\numberline {1-6-3}تکنولوژی‌های نسل‌های مختلف تلفن همراه}{8}{subsection.1.6.3}%
+\contentsline {subsection}{\numberline {1-6-4}تغییرات اجتماعی و اقتصادی از طریق مخابرات سلولی}{8}{subsection.1.6.4}%
+\contentsline {section}{\numberline {1-7}انواع فرستنده-گیرنده از نظر تعداد آنتن}{8}{section.1.7}%
+\contentsline {subsection}{\numberline {1-7-1} ارتباط \lr {SISO} : تک ورودی - تک خروجی }{8}{subsection.1.7.1}%
+\contentsline {subsection}{\numberline {1-7-2} ارتباط \lr {MISO} : چند ورودی - تک خروجی }{8}{subsection.1.7.2}%
+\contentsline {subsection}{\numberline {1-7-3} ارتباط \lr {SIMO} : تک ورودی - چند خروجی }{9}{subsection.1.7.3}%
+\contentsline {subsection}{\numberline {1-7-4} ارتباط \lr {MIMO} : چند ورودی - چند خروجی }{9}{subsection.1.7.4}%
+\contentsline {section}{\numberline {1-8} سطوح بازتاب دهنده هوشمند (\lr {IRS}) }{10}{section.1.8}%
+\contentsline {subsection}{\numberline {1-8-1} مفهوم کلی }{10}{subsection.1.8.1}%
+\contentsline {subsection}{\numberline {1-8-2} اصول کار }{10}{subsection.1.8.2}%
+\contentsline {subsection}{\numberline {1-8-3}کاربردهای سطوح هوشمند}{10}{subsection.1.8.3}%
+\contentsline {subsection}{\numberline {1-8-4}چالش‌ها و چشم‌اندازهای آینده}{11}{subsection.1.8.4}%
+\contentsline {subsection}{\numberline {1-8-5}نتیجه‌گیری}{11}{subsection.1.8.5}%
+\contentsline {chapter}{\numberline {2}علم بهینه‌سازی کلاسیک}{13}{chapter.2}%
+\contentsline {section}{\numberline {2-1} مقدمه‌ای بر بهینه سازی کلاسیک }{15}{section.2.1}%
+\contentsline {subsection}{\numberline {2-1-1}مفهوم بهینه‌سازی کلاسیک}{15}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2-1-2}کاربردهای بهینه‌سازی کلاسیک}{15}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2-1-3}روش‌های بهینه‌سازی}{15}{subsection.2.1.3}%
+\contentsline {section}{\numberline {2-2}تاریخچه بهینه‌سازی}{16}{section.2.2}%
+\contentsline {subsection}{\numberline {2-2-1}قدمت تاریخی بهینه‌سازی}{16}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2-2-2}تا رسیدن به قرن 17 و 18}{16}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2-2-3}قرن 19 و پیدایش بهینه‌سازی ریاضی}{16}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2-2-4}قرن 20 و پیشرفت بهینه‌سازی}{16}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2-2-5}تا به امروز}{16}{subsection.2.2.5}%
+\contentsline {subsection}{\numberline {2-2-6}نتیجه‌گیری}{17}{subsection.2.2.6}%
+\contentsline {section}{\numberline {2-3}دسته‌بندی انواع الگوریتم و مسائل بهینه سازی}{17}{section.2.3}%
+\contentsline {subsection}{\numberline {2-3-1} دسته‌بندی انواع توابع هدف }{17}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2-3-2}مسائل بهینه‌سازی معروف}{18}{subsection.2.3.2}%
+\contentsline {section}{\numberline {2-4}تفاوت بهینه‌سازی کلاسیک و مدرن و مزیت‌های هر کدام}{19}{section.2.4}%
+\contentsline {subsection}{\numberline {2-4-1}الگوریتم‌ها و روش‌ها:}{19}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2-4-2} کاربردها و پیچیدگی مسائل:}{19}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2-4-3} قدرت حل و کیفیت راه‌حل: }{19}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2-4-4} میزان پیشرفت }{20}{subsection.2.4.4}%
+\contentsline {section}{\numberline {2-5}بهینه‌سازی کلاسیک در علم مخابرات}{20}{section.2.5}%
+\contentsline {chapter}{\numberline {3}کارهای پیشین و سناریوی مسئله}{23}{chapter.3}%
+\contentsline {section}{\numberline {3-1} انواع مسائل مطرح‌شده در زمینه سطوح بازتاب‌کننده\\ هوشمند }{24}{section.3.1}%
+\contentsline {subsection}{\numberline {3-1-1}مسائل میدانی:}{25}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3-1-2}مسائل سیستمی:}{25}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3-2}مسائل مرتبط با سناریو پروژه}{26}{section.3.2}%
+\contentsline {section}{\numberline {3-3}سناریوی پروژه}{29}{section.3.3}%
+\contentsline {section}{\numberline {3-4}نوآوری ما}{29}{section.3.4}%
+\contentsline {chapter}{\numberline {4}الگوریتم بهینه‌سازی}{31}{chapter.4}%
+\contentsline {chapter}{\numberline {5}نتایج و پیشنهادات}{34}{chapter.5}%
+\contentsline {section}{\numberline {5-1}نتایج}{36}{section.5.1}%
+\contentsline {section}{\numberline {5-2}پیشنهادات}{36}{section.5.2}%
+\contentsline {subsection}{\numberline {5-2-1}بازتاب مرتبه 3}{36}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5-2-2}ساخت فریم‌ورک برای بهینه‌سازی سطوح هوشمند}{36}{subsection.5.2.2}%
+\contentsline {chapter}{پیوست}{39}{appendix*.6}%
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{40}{appendix*.8}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{42}{appendix*.9}%
 \contentsfinish 

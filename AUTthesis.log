@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.10) (preloaded format=xelatex 2022.11.17)  23 AUG 2023 21:35
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.10) (preloaded format=xelatex 2022.11.17)  28 AUG 2023 23:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -166,7 +166,15 @@ File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
 ))
 \Gin@req@height=\dimen158
 \Gin@req@width=\dimen159
-) (C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+) (C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen160
+\WF@size=\dimen161
+\c@WF@wrappedlines=\count271
+\WF@box=\box53
+\WF@everypar=\toks30
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
 Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
 
 (C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
@@ -180,7 +188,7 @@ Package: setspace 2011/12/19 v6.7a set line spacing
 )
 (C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titletoc.sty
 Package: titletoc 2021/07/05 v2.14 TOC entries
-\ttl@leftsep=\dimen160
+\ttl@leftsep=\dimen162
 )
 (C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
@@ -214,8 +222,8 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cftbeforefigskip=\skip81
 \cftfigindent=\skip82
 \cftfignumwidth=\skip83
-\c@lofdepth=\count271
-\c@lotdepth=\count272
+\c@lofdepth=\count272
+\c@lotdepth=\count273
 \cftbeforelottitleskip=\skip84
 \cftafterlottitleskip=\skip85
 \cftbeforetabskip=\skip86
@@ -225,11 +233,11 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 (C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip89
-\enit@outerparindent=\dimen161
-\enit@toks=\toks30
-\enit@inbox=\box53
-\enit@count@id=\count273
-\enitdp@description=\count274
+\enit@outerparindent=\dimen163
+\enit@toks=\toks31
+\enit@inbox=\box54
+\enit@count@id=\count274
+\enitdp@description=\count275
 )
 (C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2022-09-22 v7.00t Hypertext links for LaTeX
@@ -280,11 +288,11 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 (C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count275
+\c@section@level=\count276
 )
-\@linkdim=\dimen162
-\Hy@linkcounter=\count276
-\Hy@pagecounter=\count277
+\@linkdim=\dimen164
+\Hy@linkcounter=\count277
+\Hy@pagecounter=\count278
  (C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2022-09-22 v7.00t Hyperref: PDFDocEncoding definition (HO)
 )
@@ -294,7 +302,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 (C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count278
+\Hy@SavedSpaceFactor=\count279
 
 (C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2022-09-22 v7.00t Hyperref: PDF Unicode definition (HO)
@@ -307,14 +315,14 @@ Package hyperref Info: Plain pages OFF on input line 4177.
 Package hyperref Info: Backreferencing OFF on input line 4182.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4410.
-\c@Hy@tempcnt=\count279
+\c@Hy@tempcnt=\count280
 
 (C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4748.
-\XeTeXLinkMargin=\dimen163
+\XeTeXLinkMargin=\dimen165
 
 (C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -324,9 +332,9 @@ ty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count280
-\Field@Width=\dimen164
-\Fld@charsize=\dimen165
+\Fld@menulength=\count281
+\Field@Width=\dimen166
+\Fld@charsize=\dimen167
 Package hyperref Info: Hyper figures OFF on input line 6027.
 Package hyperref Info: Link nesting OFF on input line 6032.
 Package hyperref Info: Hyper index ON on input line 6035.
@@ -339,9 +347,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6057.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count281
-\c@Item=\count282
-\c@Hfootnote=\count283
+\Hy@abspage=\count282
+\c@Item=\count283
+\c@Hfootnote=\count284
 )
 Package hyperref Info: Driver (autodetected): hxetex.
 
@@ -352,11 +360,11 @@ File: hxetex.def 2022-09-22 v7.00t Hyperref driver for XeTeX
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\pdfm@box=\box54
-\c@Hy@AnnotLevel=\count284
-\HyField@AnnotCount=\count285
-\Fld@listcount=\count286
-\c@bookmark@seq@number=\count287
+\pdfm@box=\box55
+\c@Hy@AnnotLevel=\count285
+\HyField@AnnotCount=\count286
+\Fld@listcount=\count287
+\c@bookmark@seq@number=\count288
 
 (C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilec
 heck.sty
@@ -420,28 +428,27 @@ Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
 )
 (C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
 Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
-\c@tracingmulticols=\count288
-\mult@box=\box55
-\multicol@leftmargin=\dimen166
-\c@unbalance=\count289
-\c@collectmore=\count290
-\doublecol@number=\count291
-\multicoltolerance=\count292
-\multicolpretolerance=\count293
-\full@width=\dimen167
-\page@free=\dimen168
-\premulticols=\dimen169
-\postmulticols=\dimen170
+\c@tracingmulticols=\count289
+\mult@box=\box56
+\multicol@leftmargin=\dimen168
+\c@unbalance=\count290
+\c@collectmore=\count291
+\doublecol@number=\count292
+\multicoltolerance=\count293
+\multicolpretolerance=\count294
+\full@width=\dimen169
+\page@free=\dimen170
+\premulticols=\dimen171
+\postmulticols=\dimen172
 \multicolsep=\skip100
 \multicolbaselineskip=\skip101
-\partial@page=\box56
-\last@line=\box57
-\maxbalancingoverflow=\dimen171
-\mult@rightbox=\box58
-\mult@grightbox=\box59
-\mult@firstbox=\box60
-\mult@gfirstbox=\box61
-\@tempa=\box62
+\partial@page=\box57
+\last@line=\box58
+\maxbalancingoverflow=\dimen173
+\mult@rightbox=\box59
+\mult@grightbox=\box60
+\mult@firstbox=\box61
+\mult@gfirstbox=\box62
 \@tempa=\box63
 \@tempa=\box64
 \@tempa=\box65
@@ -477,20 +484,21 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \@tempa=\box95
 \@tempa=\box96
 \@tempa=\box97
-\c@minrows=\count294
-\c@columnbadness=\count295
-\c@finalcolumnbadness=\count296
-\last@try=\dimen172
-\multicolovershoot=\dimen173
-\multicolundershoot=\dimen174
-\mult@nat@firstbox=\box98
-\colbreak@box=\box99
-\mc@col@check@num=\count297
+\@tempa=\box98
+\c@minrows=\count295
+\c@columnbadness=\count296
+\c@finalcolumnbadness=\count297
+\last@try=\dimen174
+\multicolovershoot=\dimen175
+\multicolundershoot=\dimen176
+\mult@nat@firstbox=\box99
+\colbreak@box=\box100
+\mc@col@check@num=\count298
 )
 (C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
 Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks31
-\verbatim@line=\toks32
+\every@verbatim=\toks32
+\verbatim@line=\toks33
 \verbatim@in@stream=\read2
 )
 \@indexfile=\write3
@@ -522,11 +530,11 @@ Package: expl3 2022-09-28 L3 programming layer (loader)
 (C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xetex
 .def
 File: l3backend-xetex.def 2022-09-28 L3 backend support: XeTeX
-\g__graphics_track_int=\count298
-\l__pdf_internal_box=\box100
-\g__pdf_backend_object_int=\count299
-\g__pdf_backend_annotation_int=\count300
-\g__pdf_backend_link_int=\count301
+\g__graphics_track_int=\count299
+\l__pdf_internal_box=\box101
+\g__pdf_backend_object_int=\count300
+\g__pdf_backend_annotation_int=\count301
+\g__pdf_backend_link_int=\count302
 ))
 Package: xparse 2022-06-22 L3 Experimental document command parser
 )
@@ -536,20 +544,20 @@ Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 ty
 Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count302
-\l__fontspec_language_int=\count303
-\l__fontspec_strnum_int=\count304
-\l__fontspec_tmp_int=\count305
-\l__fontspec_tmpa_int=\count306
-\l__fontspec_tmpb_int=\count307
-\l__fontspec_tmpc_int=\count308
-\l__fontspec_em_int=\count309
-\l__fontspec_emdef_int=\count310
-\l__fontspec_strong_int=\count311
-\l__fontspec_strongdef_int=\count312
-\l__fontspec_tmpa_dim=\dimen175
-\l__fontspec_tmpb_dim=\dimen176
-\l__fontspec_tmpc_dim=\dimen177
+\l__fontspec_script_int=\count303
+\l__fontspec_language_int=\count304
+\l__fontspec_strnum_int=\count305
+\l__fontspec_tmp_int=\count306
+\l__fontspec_tmpa_int=\count307
+\l__fontspec_tmpb_int=\count308
+\l__fontspec_tmpc_int=\count309
+\l__fontspec_em_int=\count310
+\l__fontspec_emdef_int=\count311
+\l__fontspec_strong_int=\count312
+\l__fontspec_strongdef_int=\count313
+\l__fontspec_tmpa_dim=\dimen177
+\l__fontspec_tmpb_dim=\dimen178
+\l__fontspec_tmpc_dim=\dimen179
  (C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
@@ -557,43 +565,43 @@ Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 (C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/xelatex/xepersian\xepersian-per
 siancal.sty
 Package: xepersian-persiancal 2012/07/25 v0.2 provides Persian calendar
-\XePersian@i=\count313
-\XePersian@y=\count314
-\XePersian@m=\count315
-\XePersian@d=\count316
-\XePersian@latini=\count317
-\XePersian@persiani=\count318
-\XePersian@latinii=\count319
-\XePersian@persianii=\count320
-\XePersian@latiniii=\count321
-\XePersian@persianiii=\count322
-\XePersian@latiniv=\count323
-\XePersian@persianiv=\count324
-\XePersian@latinv=\count325
-\XePersian@persianv=\count326
-\XePersian@latinvi=\count327
-\XePersian@persianvi=\count328
-\XePersian@latinvii=\count329
-\XePersian@persianvii=\count330
-\XePersian@latinviii=\count331
-\XePersian@persianviii=\count332
-\XePersian@latinix=\count333
-\XePersian@persianix=\count334
-\XePersian@latinx=\count335
-\XePersian@persianx=\count336
-\XePersian@latinxi=\count337
-\XePersian@persianxi=\count338
-\XePersian@latinxii=\count339
-\XePersian@persianxii=\count340
-\XePersian@persianxiii=\count341
-\XePersian@temp=\count342
-\XePersian@temptwo=\count343
-\XePersian@tempthree=\count344
-\XePersian@yModHundred=\count345
-\XePersian@thirtytwo=\count346
-\XePersian@dn=\count347
-\XePersian@sn=\count348
-\XePersian@mminusone=\count349
+\XePersian@i=\count314
+\XePersian@y=\count315
+\XePersian@m=\count316
+\XePersian@d=\count317
+\XePersian@latini=\count318
+\XePersian@persiani=\count319
+\XePersian@latinii=\count320
+\XePersian@persianii=\count321
+\XePersian@latiniii=\count322
+\XePersian@persianiii=\count323
+\XePersian@latiniv=\count324
+\XePersian@persianiv=\count325
+\XePersian@latinv=\count326
+\XePersian@persianv=\count327
+\XePersian@latinvi=\count328
+\XePersian@persianvi=\count329
+\XePersian@latinvii=\count330
+\XePersian@persianvii=\count331
+\XePersian@latinviii=\count332
+\XePersian@persianviii=\count333
+\XePersian@latinix=\count334
+\XePersian@persianix=\count335
+\XePersian@latinx=\count336
+\XePersian@persianx=\count337
+\XePersian@latinxi=\count338
+\XePersian@persianxi=\count339
+\XePersian@latinxii=\count340
+\XePersian@persianxii=\count341
+\XePersian@persianxiii=\count342
+\XePersian@temp=\count343
+\XePersian@temptwo=\count344
+\XePersian@tempthree=\count345
+\XePersian@yModHundred=\count346
+\XePersian@thirtytwo=\count347
+\XePersian@dn=\count348
+\XePersian@sn=\count349
+\XePersian@mminusone=\count350
 )
 (C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/xelatex/xepersian\xepersian-mat
 hdigitspec.sty
@@ -633,19 +641,19 @@ Package: bidi 2022/11/06 v39.6 (Release Women, Life, and Liberty) Bidirectional
 ****************************************************
 (C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\biditools.sty
 Package: biditools 2022/06/15 v2.3 Programming tools for bidi package
-\@bidi@envbody=\toks33
-\@bidi@emptytoks=\toks34
-\bidi@poscount=\count350
-\bidi@tempcountb=\count351
-\bidi@temptoksa=\toks35
-\bidi@temptoksb=\toks36
-\bidi@dummies=\count352
-\bidi@are@these@correct=\toks37
-\bidi@toks@lista=\toks38
-\bidi@toks@listb=\toks39
-\bidi@stack@length=\count353
-\bidi@empty@stack=\toks40
-\bidi@looprepeat@depth=\count354
+\@bidi@envbody=\toks34
+\@bidi@emptytoks=\toks35
+\bidi@poscount=\count351
+\bidi@tempcountb=\count352
+\bidi@temptoksa=\toks36
+\bidi@temptoksb=\toks37
+\bidi@dummies=\count353
+\bidi@are@these@correct=\toks38
+\bidi@toks@lista=\toks39
+\bidi@toks@listb=\toks40
+\bidi@stack@length=\count354
+\bidi@empty@stack=\toks41
+\bidi@looprepeat@depth=\count355
 )
 (C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-abspage.sty
 Package: zref-abspage 2022-04-07 v2.34 Module abspage for zref (HO)
@@ -656,7 +664,7 @@ Package zref Info: New property list: main on input line 767.
 Package zref Info: New property: default on input line 768.
 Package zref Info: New property: page on input line 769.
 )
-\c@abspage=\count355
+\c@abspage=\count356
 Package zref Info: New property: abspage on input line 65.
 )
 (C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
@@ -664,10 +672,10 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
 (C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
 (C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
-\XKV@toks=\toks41
-\XKV@tempa@toks=\toks42
+\XKV@toks=\toks42
+\XKV@tempa@toks=\toks43
 )
-\XKV@depth=\count356
+\XKV@depth=\count357
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 \@bidi@copyins@=\insert252
@@ -676,15 +684,15 @@ File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ef
 File: latex-xetex-bidi.def 2022/07/04 v1.4.9 bidi adaptations for `latex.ltx' f
 or XeTeX engine
-\bidi@n@everypar=\toks43
-\bidi@column@check@number=\count357
+\bidi@n@everypar=\toks44
+\bidi@column@check@number=\count358
 
 (C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\footnote-xetex-bid
 i.def
 File: footnote-xetex-bidi.def 2017/08/09 v1.1 bidi footnote macros for XeTeX en
 gine
-\c@footdir@label=\count358
-\footdir@toks=\toks44
+\c@footdir@label=\count359
+\footdir@toks=\toks45
 )
 (C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\book-xetex-bidi.de
 f
@@ -711,6 +719,11 @@ ef
 File: color-xetex-bidi.def 2013/04/08 v0.2 bidi adaptations for color package f
 or XeTeX engine
 LaTeX Info: Redefining \color on input line 49.
+)
+(C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\wrapfig-xetex-bidi
+.def
+File: wrapfig-xetex-bidi.def 2014/04/23 v0.3 bidi adaptations for wrapfig packa
+ge for XeTeX engine
 )
 (C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\graphicx-xetex-bid
 i.def
@@ -757,7 +770,7 @@ ge for XeTeX engine
 File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
  last package loaded
 )
-\bidi@digits=\count359
+\bidi@digits=\count360
 \bidi@digits@charclass=\XeTeXcharclass1
 \bidi@sepmark@charclass=\XeTeXcharclass2
 )
@@ -786,9 +799,9 @@ File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
 * Primary author of xepersian package: Vafa Khalighi.
 * 
 ****************************************************
-\xepersian@tcl=\count360
-\xepersian@ilg=\dimen178
-\xepersian@strutilg=\dimen179
+\xepersian@tcl=\count361
+\xepersian@ilg=\dimen180
+\xepersian@strutilg=\dimen181
 
 (C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/xelatex/xepersian\loadingorder-
 xepersian.def
@@ -898,7 +911,7 @@ tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
-(Font)              scaled to size 14.39996pt on input line 60.
+(Font)              scaled to size 14.39996pt on input line 61.
 
 Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
 (fontspec)             New Roman' with options [Ligatures=TeX].
@@ -931,7 +944,7 @@ ext;"
 (fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-
 text;"
 
-LaTeX Info: Redefining \latinfont on input line 61.
+LaTeX Info: Redefining \latinfont on input line 62.
 
 Package fontspec Info: Could not resolve font "IranNastaliq/BI" (it probably
 (fontspec)             doesn't exist).
@@ -984,20 +997,20 @@ ex-text;"
 tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
-\c@definition=\count361
+\c@definition=\count362
 
 
-Package amsthm Warning: Unknown theoremstyle `theorem' on input line 116.
+Package amsthm Warning: Unknown theoremstyle `theorem' on input line 117.
 
-\c@savepage=\count362
+\c@savepage=\count363
 )
 
 LaTeX Warning: Unused global option(s):
     [oneside,12pt].
 
-(AUTthesis.aux (chapter1.aux) (chapter2.aux) (chapter3.aux) (chapter4.aux)
-(chapter5.aux) (chapter6.aux) (appendix1.aux) (dicfa2en.aux) (dicen2fa.aux)
-(en-abstract.aux))
+(AUTthesis.aux (chapter6.aux) (chapter7.aux) (chapter8.aux) (chapter9.aux)
+(chapter10.aux) (appendix1.aux) (dicfa2en.aux) (dicen2fa.aux) (en-abstract.aux)
+)
 \openout1 = `AUTthesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
@@ -1011,8 +1024,7 @@ LaTeX Font Info:    ... okay on input line 32.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
 2.
-
-(C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
+ (C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 32.
@@ -1070,21 +1082,21 @@ Package hyperref Info: Link coloring ON on input line 32.
 File: fa-logo.png Graphic file (type bmp)
 <fa-logo.png>
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
-(Font)              scaled to size 14.39996pt on input line 42.
+(Font)              scaled to size 14.39996pt on input line 48.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
-(Font)              scaled to size 19.19995pt on input line 42.
+(Font)              scaled to size 19.19995pt on input line 48.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
-(Font)              scaled to size 16.79996pt on input line 42.
+(Font)              scaled to size 16.79996pt on input line 48.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
-(Font)              scaled to size 19.19995pt on input line 42.
+(Font)              scaled to size 19.19995pt on input line 48.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
-(Font)              scaled to size 23.99994pt on input line 42.
+(Font)              scaled to size 23.99994pt on input line 48.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
-(Font)              scaled to size 23.99994pt on input line 42.
+(Font)              scaled to size 23.99994pt on input line 48.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
-(Font)              scaled to size 21.59995pt on input line 42.
+(Font)              scaled to size 21.59995pt on input line 48.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
-(Font)              scaled to size 21.59995pt on input line 42.
+(Font)              scaled to size 21.59995pt on input line 48.
  [1
 
 ]
@@ -1122,15 +1134,25 @@ Overfull \hbox (8.46791pt too wide) in paragraph at lines 45--46
 نشگاه صنعتی امیرکبیر بوده و به دستاوردهای[]
  []
 
-) (Chant.tex [4]
-LaTeX Font Info:    Font shape `TU/IranNastaliq(0)/m/n' will be
-(Font)              scaled to size 24.0pt on input line 5.
+File: Signature.jpg Graphic file (type bmp)
+<Signature.jpg>
 
-Overfull \hbox (17.95883pt too wide) in paragraph at lines 7--8
-[][]\TU/IranNastaliq(0)/m/n/12 نويسنده پايان‌نامه، درصورت تمايل ميتواند برای سپ
-اسگزاری پايان‌نامه خود را به شخص[]
+Underfull \hbox (badness 10000) in paragraph at lines 50--56
+[][]
  []
 
+
+Overfull \hbox (7.3969pt too wide) in paragraph at lines 56--57
+[][] []
+ []
+
+) (Chant.tex [4]
+Overfull \hbox (7.3969pt too wide) in paragraph at lines 1--2
+[] []
+ []
+
+LaTeX Font Info:    Font shape `TU/IranNastaliq(0)/m/n' will be
+(Font)              scaled to size 24.0pt on input line 5.
 [5]) (acknowledgement.tex
 Underfull \hbox (badness 10000) in paragraph at lines 5--8
 [][]
@@ -1240,9 +1262,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ])
-\openout2 = `chapter1.aux'.
+\openout2 = `chapter6.aux'.
 
- (chapter1.tex
+ (chapter6.tex
 فصل 1.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
 (Font)              scaled to size 29.85593pt on input line 1.
@@ -1271,9 +1293,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [2]
-LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
-(Font)              scaled to size 8.39998pt on input line 110.
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1291,7 +1310,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[4])
+[4]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1301,10 +1320,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [5]
-\openout2 = `chapter2.aux'.
-
- (chapter2.tex
-فصل 2.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1313,18 +1328,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[6
-
-
-
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 5--10
-[][]
- []
-
-File: bidabad.jpg Graphic file (type bmp)
-<bidabad.jpg>
+[6]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1334,19 +1338,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [7]
-File: bibref.jpg Graphic file (type bmp)
-<bibref.jpg>
-
-Underfull \hbox (badness 10000) in paragraph at lines 44--53
-[][]
- []
-
-
-Overfull \hbox (28.66222pt too wide) in paragraph at lines 57--57
-[][]\TU/lmtt/m/n/12 title={A classification of some Finsler connections and the
-ir applications},[] []
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1365,9 +1356,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [9]
-File: Xindy_Make_Index.png Graphic file (type bmp)
-<Xindy_Make_Index.png>
-)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1377,10 +1365,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [10]
-\openout2 = `chapter3.aux'.
-
- (chapter3.tex
-فصل 3.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1389,12 +1373,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[11
-
-
-
-
-]
+[11])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1404,6 +1383,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [12]
+\openout2 = `chapter7.aux'.
+
+ (chapter7.tex
+فصل 2.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1412,7 +1395,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[13]
+[13
+
+
+
+
+]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1430,7 +1418,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[15])
+[15]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1440,10 +1428,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [16]
-\openout2 = `chapter4.aux'.
-
- (chapter4.tex
-فصل 4.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1452,12 +1436,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[17
-
-
-
-
-]
+[17]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1467,6 +1446,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [18]
+Overfull \hbox (2.17262pt too wide) in paragraph at lines 106--107
+[]\TU/BNazanin(0)/m/n/12 الگوریتم‌های ژنتیک)، الگوریتم‌های بهینه‌سازی مبتنی بر 
+گراف، روش‌های بهینه‌سازی تصادفی و شبکه‌های[]
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1475,7 +1459,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[19])
+[19]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1485,10 +1469,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [20]
-\openout2 = `chapter5.aux'.
-
- (chapter5.tex
-فصل 5.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1497,12 +1477,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[21
-
-
-
-
-])
+[21])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1512,10 +1487,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [22]
-\openout2 = `chapter6.aux'.
+\openout2 = `chapter8.aux'.
 
- (chapter6.tex
-فصل 6.
+ (chapter8.tex
+فصل 3.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1531,6 +1506,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 ]
 
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 6.
+
+
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -1539,6 +1518,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [24]
+Missing character: There is no – in font B Nazanin Bold/OT:language=dflt;script
+=arab;mapping=persian-tex-text;!
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
+(Font)              scaled to size 18.71999pt on input line 34.
+Missing character: There is no – in font B Nazanin Bold/OT:language=dflt;script
+=arab;mapping=persian-tex-text;!
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1574,7 +1559,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[28])
+[28]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1583,24 +1568,114 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[29] (AUTthesis.bbl
-LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
-(Font)              scaled to size 29.85593pt on input line 4.
+[29])
 
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
 
-LaTeX Font Warning: Font shape `TU/BNazanin(0)/m/it' undefined
-(Font)              using `TU/BNazanin(0)/m/n' instead on input line 28.
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/it' will be
-(Font)              scaled to size 14.39996pt on input line 34.
-) [30
+[30]
+\openout2 = `chapter9.aux'.
+
+ (chapter9.tex
+فصل 4.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[31
+
 
 
 
 ]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[32])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[33]
+\openout2 = `chapter10.aux'.
+
+ (chapter10.tex
+فصل 5.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[34
+
+
+
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[35]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[36]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[37])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[38] (AUTthesis.bbl)
 \openout2 = `appendix1.aux'.
 
- (appendix1.tex) [31
+ (appendix1.tex
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
+(Font)              scaled to size 29.85593pt on input line 1.
+) [39
+
+
 
 
 ]
@@ -1611,7 +1686,7 @@ Missing character: There is no p in font B Nazanin/OT:language=dflt;script=arab
 ;mapping=persian-tex-text;!
 Missing character: There is no p in font B Nazanin/OT:language=dflt;script=arab
 ;mapping=persian-tex-text;!
-[32
+[40
 
 
 
@@ -1629,7 +1704,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[33])
+[41])
 \openout2 = `dicen2fa.aux'.
 
  (dicen2fa.tex
@@ -1637,7 +1712,7 @@ Missing character: There is no p in font B Nazanin/OT:language=dflt;script=arab
 ;mapping=persian-tex-text;!
 Missing character: There is no p in font B Nazanin/OT:language=dflt;script=arab
 ;mapping=persian-tex-text;!
-[34
+[42
 
 
 
@@ -1656,30 +1731,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[35]
+[43]
 No file AUTthesis.ind.
 \openout2 = `en-abstract.aux'.
 
-(en-abstract.tex) [36
+(en-abstract.tex) [44
 
 
 
-] (en_title.tex) (AUTthesis.aux (chapter1.aux)
-(chapter2.aux) (chapter3.aux) (chapter4.aux) (chapter5.aux) (chapter6.aux)
-(appendix1.aux) (dicfa2en.aux) (dicen2fa.aux) (en-abstract.aux))
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
+] (en_title.tex) (AUTthesis.aux (chapter6.aux)
+(chapter7.aux) (chapter8.aux) (chapter9.aux) (chapter10.aux) (appendix1.aux)
+(dicfa2en.aux) (dicen2fa.aux) (en-abstract.aux))
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: 1002D1353CDEA4D9764DC7704641D769;14769.
+(rerunfilecheck)             Checksum: F2448157F02D0FC1DB796185E797EDEA;17958.
  ) 
 Here is how much of TeX's memory you used:
- 18380 strings out of 410532
- 365797 string characters out of 2813704
- 819250 words of memory out of 3000000
- 39086 multiletter control sequences out of 15000+600000
- 478584 words of font info for 132 fonts, out of 8000000 for 9000
+ 18344 strings out of 410532
+ 365014 string characters out of 2813704
+ 820591 words of memory out of 3000000
+ 39061 multiletter control sequences out of 15000+600000
+ 476137 words of font info for 116 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 92i,12n,94p,2408b,492s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 92i,12n,94p,2408b,483s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on AUTthesis.pdf (49 pages).
+Output written on AUTthesis.pdf (57 pages).
