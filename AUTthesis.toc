@@ -89,18 +89,18 @@
 \contentsline {subsection}{\numberline {4-5-3}روش جستجوی دوبخشی}{41}{subsection.4.5.3}%
 \contentsline {subsection}{\numberline {4-5-4}حد بالای لامبدا}{41}{subsection.4.5.4}%
 \contentsline {section}{\numberline {4-6}بهینه‌سازی ضرایب فاز سطوح هوشمند}{42}{section.4.6}%
-\contentsline {subsection}{\numberline {4-6-1}مقدار اپسیلون بهینه}{42}{subsection.4.6.1}%
-\contentsline {subsection}{\numberline {4-6-2}روش گرادیان نزولی}{42}{subsection.4.6.2}%
-\contentsline {subsection}{\numberline {4-6-3}ضرایب بهینه سطوح هوشمند یک و دو}{42}{subsection.4.6.3}%
-\contentsline {subsection}{\numberline {4-6-4}سه ناحیه اصلی بهینه‌سازی ضرایب فاز}{42}{subsection.4.6.4}%
-\contentsline {chapter}{\numberline {5}نتایج و پیشنهادات}{44}{chapter.5}%
-\contentsline {section}{\numberline {5-1}نتایج}{46}{section.5.1}%
-\contentsline {subsection}{\numberline {5-1-1}نتایج و تحلیل نتایج بهینه‌سازی بدون مانع}{46}{subsection.5.1.1}%
-\contentsline {subsection}{\numberline {5-1-2}نتایج و تحلیل نتایج بهینه‌سازی با مانع}{46}{subsection.5.1.2}%
-\contentsline {section}{\numberline {5-2}پیشنهادات}{46}{section.5.2}%
-\contentsline {subsection}{\numberline {5-2-1}بازتاب مرتبه 3}{46}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5-2-2}ساخت فریم‌ورک برای بهینه‌سازی سطوح هوشمند}{46}{subsection.5.2.2}%
-\contentsline {chapter}{پیوست}{49}{appendix*.8}%
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{50}{appendix*.9}%
-\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{52}{appendix*.10}%
+\contentsline {subsection}{\numberline {4-6-1}مقدار اپسیلون بهینه}{43}{subsection.4.6.1}%
+\contentsline {subsection}{\numberline {4-6-2}روش گرادیان نزولی}{43}{subsection.4.6.2}%
+\contentsline {subsection}{\numberline {4-6-3}ضرایب بهینه سطوح هوشمند یک و دو}{44}{subsection.4.6.3}%
+\contentsline {subsection}{\numberline {4-6-4}سه ناحیه اصلی بهینه‌سازی ضرایب فاز}{45}{subsection.4.6.4}%
+\contentsline {chapter}{\numberline {5}نتایج و پیشنهادات}{47}{chapter.5}%
+\contentsline {section}{\numberline {5-1}نتایج}{49}{section.5.1}%
+\contentsline {subsection}{\numberline {5-1-1}نتایج و تحلیل بهینه‌سازی بدون مانع}{49}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5-1-2}نتایج و تحلیل بهینه‌سازی با مانع}{49}{subsection.5.1.2}%
+\contentsline {section}{\numberline {5-2}پیشنهادات}{49}{section.5.2}%
+\contentsline {subsection}{\numberline {5-2-1}بازتاب مرتبه 3}{49}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5-2-2}ساخت فریم‌ورک برای بهینه‌سازی سطوح هوشمند}{49}{subsection.5.2.2}%
+\contentsline {chapter}{پیوست}{52}{appendix*.8}%
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{53}{appendix*.9}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{55}{appendix*.10}%
 \contentsfinish 
