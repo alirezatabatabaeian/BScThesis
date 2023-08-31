@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.10) (preloaded format=xelatex 2022.11.17)  29 AUG 2023 23:11
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.10) (preloaded format=xelatex 2022.11.17)  31 AUG 2023 14:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1008,9 +1008,8 @@ Package amsthm Warning: Unknown theoremstyle `theorem' on input line 118.
 LaTeX Warning: Unused global option(s):
     [oneside,12pt].
 
-(AUTthesis.aux (chapter6.aux) (chapter7.aux) (chapter8.aux) (chapter9.aux)
-(chapter10.aux) (appendix1.aux) (dicfa2en.aux) (dicen2fa.aux) (en-abstract.aux)
-)
+(AUTthesis.aux (chapter1.aux) (chapter2.aux) (chapter3.aux) (chapter4.aux)
+(chapter5.aux) (appendix1.aux) (dicfa2en.aux) (dicen2fa.aux) (en-abstract.aux))
 \openout1 = `AUTthesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
@@ -1024,7 +1023,7 @@ LaTeX Font Info:    ... okay on input line 32.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
 2.
- (C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
+(C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 32.
@@ -1271,9 +1270,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ])
-\openout2 = `chapter6.aux'.
+\openout2 = `chapter1.aux'.
 
- (chapter6.tex
+ (chapter1.tex
 فصل 1.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
 (Font)              scaled to size 29.85593pt on input line 1.
@@ -1392,9 +1391,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [12]
-\openout2 = `chapter7.aux'.
+\openout2 = `chapter2.aux'.
 
- (chapter7.tex
+ (chapter2.tex
 فصل 2.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1496,9 +1495,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [22]
-\openout2 = `chapter8.aux'.
+\openout2 = `chapter3.aux'.
 
- (chapter8.tex
+ (chapter3.tex
 فصل 3.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1619,9 +1618,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [32]
-\openout2 = `chapter9.aux'.
+\openout2 = `chapter4.aux'.
 
- (chapter9.tex
+ (chapter4.tex
 فصل 4.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1668,6 +1667,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [36]
+File: ./images//AO.jpg Graphic file (type bmp)
+<./images//AO.jpg>
+
+Overfull \hbox (4.72969pt too wide) in paragraph at lines 82--83
+[]\TU/BNazanin(0)/m/n/12 یکی از مشکلاتی که در این مسئله بهینه‌سازی و همه مسائل 
+مرتبط با بهینه‌سازی حداکثر نرخ قابل‌دسترسی[]
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1676,7 +1683,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[37])
+[37]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1686,10 +1693,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [38]
-\openout2 = `chapter10.aux'.
-
- (chapter10.tex
-فصل 5.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1698,12 +1701,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[39
-
-
-
-
-]
+[39]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1739,13 +1737,67 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[43] (AUTthesis.bbl)
+[43]
+\openout2 = `chapter5.aux'.
+
+ (chapter5.tex
+فصل 5.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[44
+
+
+
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[45]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[46]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[47])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[48] (AUTthesis.bbl)
 \openout2 = `appendix1.aux'.
 
  (appendix1.tex
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 (Font)              scaled to size 29.85593pt on input line 1.
-) [44
+) [49
 
 
 
@@ -1758,7 +1810,7 @@ Missing character: There is no p in font B Nazanin/OT:language=dflt;script=arab
 ;mapping=persian-tex-text;!
 Missing character: There is no p in font B Nazanin/OT:language=dflt;script=arab
 ;mapping=persian-tex-text;!
-[45
+[50
 
 
 
@@ -1776,7 +1828,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[46])
+[51])
 \openout2 = `dicen2fa.aux'.
 
  (dicen2fa.tex
@@ -1784,7 +1836,7 @@ Missing character: There is no p in font B Nazanin/OT:language=dflt;script=arab
 ;mapping=persian-tex-text;!
 Missing character: There is no p in font B Nazanin/OT:language=dflt;script=arab
 ;mapping=persian-tex-text;!
-[47
+[52
 
 
 
@@ -1803,27 +1855,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[48]
+[53]
 No file AUTthesis.ind.
 \openout2 = `en-abstract.aux'.
 
-(en-abstract.tex) [49
+(en-abstract.tex) [54
 
 
 
-] (en_title.tex) (AUTthesis.aux (chapter6.aux)
-(chapter7.aux) (chapter8.aux) (chapter9.aux) (chapter10.aux) (appendix1.aux)
+] (en_title.tex) (AUTthesis.aux (chapter1.aux)
+(chapter2.aux) (chapter3.aux) (chapter4.aux) (chapter5.aux) (appendix1.aux)
 (dicfa2en.aux) (dicen2fa.aux) (en-abstract.aux))
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: B522D0CAFAB146EA86010A7FAF9DA223;19424.
+(rerunfilecheck)             Checksum: 2DF2E1C6E75113AA492223638F8446A0;23867.
  ) 
 Here is how much of TeX's memory you used:
- 18415 strings out of 410532
- 366776 string characters out of 2813704
+ 18437 strings out of 410532
+ 367067 string characters out of 2813704
  820606 words of memory out of 3000000
- 39120 multiletter control sequences out of 15000+600000
- 478906 words of font info for 125 fonts, out of 8000000 for 9000
+ 39144 multiletter control sequences out of 15000+600000
+ 478898 words of font info for 124 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  92i,16n,94p,2408b,483s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on AUTthesis.pdf (63 pages).
+Output written on AUTthesis.pdf (68 pages).
