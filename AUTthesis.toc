@@ -60,6 +60,7 @@
 \contentsline {subsection}{\numberline {2-4-3} قدرت حل و کیفیت راه‌حل: }{19}{subsection.2.4.3}%
 \contentsline {subsection}{\numberline {2-4-4} میزان پیشرفت }{20}{subsection.2.4.4}%
 \contentsline {section}{\numberline {2-5}بهینه‌سازی کلاسیک در علم مخابرات}{20}{section.2.5}%
+\contentsline {section}{\numberline {2-6}تابع محدب}{21}{section.2.6}%
 \contentsline {chapter}{\numberline {3}کارهای پیشین و سناریوی مسئله}{23}{chapter.3}%
 \contentsline {section}{\numberline {3-1} انواع مسائل مطرح‌شده در زمینه سطوح بازتاب‌کننده\\ هوشمند }{24}{section.3.1}%
 \contentsline {subsection}{\numberline {3-1-1}مسائل میدانی:}{25}{subsection.3.1.1}%
@@ -100,6 +101,7 @@
 \contentsline {section}{\numberline {5-2}پیشنهادات}{49}{section.5.2}%
 \contentsline {subsection}{\numberline {5-2-1}بازتاب مرتبه 3}{49}{subsection.5.2.1}%
 \contentsline {subsection}{\numberline {5-2-2}ساخت فریم‌ورک برای بهینه‌سازی سطوح هوشمند}{49}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5-2-3}پیدا کردن طول گام بهینه}{50}{subsection.5.2.3}%
 \contentsline {chapter}{پیوست}{52}{appendix*.8}%
 \contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{53}{appendix*.9}%
 \contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{55}{appendix*.10}%

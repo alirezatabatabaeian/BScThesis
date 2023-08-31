@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.10) (preloaded format=xelatex 2022.11.17)  31 AUG 2023 18:40
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.10) (preloaded format=xelatex 2022.11.17)  31 AUG 2023 22:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1477,6 +1477,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [20]
+File: ./images//convex.jpg Graphic file (type bmp)
+<./images//convex.jpg>
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1894,13 +1897,13 @@ No file AUTthesis.ind.
 (chapter2.aux) (chapter3.aux) (chapter4.aux) (chapter5.aux) (appendix1.aux)
 (dicfa2en.aux) (dicen2fa.aux) (en-abstract.aux))
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: CF3253B85A56E122B6144568910A928F;23771.
+(rerunfilecheck)             Checksum: 122B09E05771ED29FC410E9D59147FCB;24146.
  ) 
 Here is how much of TeX's memory you used:
- 18437 strings out of 410532
- 367067 string characters out of 2813704
+ 18459 strings out of 410532
+ 367480 string characters out of 2813704
  820606 words of memory out of 3000000
- 39144 multiletter control sequences out of 15000+600000
+ 39166 multiletter control sequences out of 15000+600000
  478898 words of font info for 124 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  92i,16n,94p,2408b,483s stack positions out of 10000i,1000n,20000p,200000b,80000s
