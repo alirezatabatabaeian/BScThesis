@@ -1,7 +1,7 @@
 \edef \SavedTocDepth {\the \value {tocdepth}}
 \setcounter {tocdepth}{-10}
-\contentsline {chapter}{فهرست تصاویر}{و}{section*.4}%
-\contentsline {chapter}{فهرست جداول}{ز}{section*.5}%
+\contentsline {chapter}{فهرست تصاویر}{و}{section*.5}%
+\contentsline {chapter}{فهرست جداول}{ز}{section*.6}%
 \par عنوان\hfill صفحه \par 
 \setcounter {tocdepth}{\SavedTocDepth }
 \contentsline {chapter}{\numberline {1}علم مخابرات}{1}{chapter.1}%
@@ -96,13 +96,13 @@
 \contentsline {subsection}{\numberline {4-6-4}سه ناحیه اصلی بهینه‌سازی ضرایب فاز}{45}{subsection.4.6.4}%
 \contentsline {chapter}{\numberline {5}نتایج و پیشنهادات}{47}{chapter.5}%
 \contentsline {section}{\numberline {5-1}نتایج}{49}{section.5.1}%
-\contentsline {subsection}{\numberline {5-1-1}نتایج و تحلیل بهینه‌سازی بدون مانع}{49}{subsection.5.1.1}%
-\contentsline {subsection}{\numberline {5-1-2}نتایج و تحلیل بهینه‌سازی با مانع}{49}{subsection.5.1.2}%
-\contentsline {section}{\numberline {5-2}پیشنهادات}{49}{section.5.2}%
-\contentsline {subsection}{\numberline {5-2-1}بازتاب مرتبه 3}{49}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5-2-2}ساخت فریم‌ورک برای بهینه‌سازی سطوح هوشمند}{49}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5-2-3}پیدا کردن طول گام بهینه}{50}{subsection.5.2.3}%
-\contentsline {chapter}{پیوست}{52}{appendix*.8}%
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{53}{appendix*.9}%
-\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{55}{appendix*.10}%
+\contentsline {subsection}{\numberline {5-1-1}نتایج و تحلیل بهینه‌سازی بدون مانع}{50}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5-1-2}نتایج و تحلیل بهینه‌سازی با مانع}{52}{subsection.5.1.2}%
+\contentsline {section}{\numberline {5-2}پیشنهادات}{54}{section.5.2}%
+\contentsline {subsection}{\numberline {5-2-1}بازتاب مرتبه 3}{54}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5-2-2}ساخت فریم‌ورک برای بهینه‌سازی سطوح هوشمند}{54}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5-2-3}پیدا کردن طول گام بهینه}{55}{subsection.5.2.3}%
+\contentsline {chapter}{پیوست}{57}{appendix*.17}%
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{58}{appendix*.18}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{60}{appendix*.19}%
 \contentsfinish 

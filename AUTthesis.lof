@@ -1,11 +1,17 @@
 \hspace *{.5cm}شکل\hfill صفحه \par 
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2-1}{\ignorespaces تعریف تابع محدب}}{21}{figure.2.1}%
+\contentsline {figure}{\numberline {2-1}{\ignorespaces تعریف تابع محدب}}{21}{figure.caption.7}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3-1}{\ignorespaces سیگنال‌های دریافتی کاربر اول در شرایط با مانع}}{30}{figure.3.1}%
-\contentsline {figure}{\numberline {3-2}{\ignorespaces سیگنال‌های دریافتی کاربر دوم در شرایط با مانع}}{30}{figure.3.2}%
+\contentsline {figure}{\numberline {3-1}{\ignorespaces سیگنال‌های دریافتی کاربر اول در شرایط با مانع}}{30}{figure.caption.8}%
+\contentsline {figure}{\numberline {3-2}{\ignorespaces سیگنال‌های دریافتی کاربر دوم در شرایط با مانع}}{30}{figure.caption.9}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4-1}{\ignorespaces شیوه استفاده الگوریتم مختصات نزولی در پروژه}}{37}{figure.4.1}%
+\contentsline {figure}{\numberline {4-1}{\ignorespaces شیوه استفاده الگوریتم مختصات نزولی در پروژه}}{37}{figure.caption.12}%
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {5-2}{\ignorespaces نرخ کاربر دوم در شرایط بدون مانع }}{50}{figure.caption.13}%
+\contentsline {figure}{\numberline {5-1}{\ignorespaces نرخ کاربر اول در شرایط بدون مانع }}{50}{figure.caption.13}%
+\contentsline {figure}{\numberline {5-3}{\ignorespaces مجموع نرخ دو کاربر در شرایط بدون مانع}}{50}{figure.caption.14}%
+\contentsline {figure}{\numberline {5-5}{\ignorespaces نرخ کاربر دوم در شرایط با مانع }}{52}{figure.caption.15}%
+\contentsline {figure}{\numberline {5-4}{\ignorespaces نرخ کاربر اول در شرایط با مانع }}{52}{figure.caption.15}%
+\contentsline {figure}{\numberline {5-6}{\ignorespaces مجموع نرخ دو کاربر در شرایط با مانع }}{52}{figure.caption.16}%
 \contentsfinish 
