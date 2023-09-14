@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.10) (preloaded format=xelatex 2022.11.17)  13 SEP 2023 05:08
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.10) (preloaded format=xelatex 2022.11.17)  14 SEP 2023 04:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1027,7 +1027,7 @@ tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
-(Font)              scaled to size 14.39996pt on input line 68.
+(Font)              scaled to size 14.39996pt on input line 69.
 
 Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
 (fontspec)             New Roman' with options [Ligatures=TeX].
@@ -1060,7 +1060,7 @@ ext;"
 (fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-
 text;"
 
-LaTeX Info: Redefining \latinfont on input line 69.
+LaTeX Info: Redefining \latinfont on input line 70.
 
 Package fontspec Info: Could not resolve font "IranNastaliq/BI" (it probably
 (fontspec)             doesn't exist).
@@ -1116,7 +1116,7 @@ tex-text;"
 \c@definition=\count387
 
 
-Package amsthm Warning: Unknown theoremstyle `theorem' on input line 124.
+Package amsthm Warning: Unknown theoremstyle `theorem' on input line 125.
 
 \c@savepage=\count388
 )
@@ -1362,18 +1362,13 @@ LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 (Font)              scaled to size 9.59998pt on input line 13.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 (Font)              scaled to size 7.19998pt on input line 13.
-LaTeX Font Info:    Trying to load font information for U+euf on input line 28.
 
-
-(C:\Users\NB1\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\ueuf.fd
-File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
-)
-Underfull \hbox (badness 10000) in paragraph at lines 13--68
+Underfull \hbox (badness 10000) in paragraph at lines 13--42
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--68
+Underfull \hbox (badness 10000) in paragraph at lines 13--42
 [][]
  []
 
@@ -1388,7 +1383,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [8
 
 
-])
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[9])
 \openout2 = `chapter1.aux'.
 
  (chapter1.tex
@@ -2034,15 +2038,50 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[56] (AUTthesis.bbl)
+[56] (AUTthesis.bbl
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
+(Font)              scaled to size 29.85593pt on input line 4.
+
+Underfull \hbox (badness 1205) in paragraph at lines 41--45
+[][]\TU/TimesNewRoman(0)/m/n/12 Dhanushka Kudathanthirige, Dulaj Gunasinghe and
+ Amarasuriya, Gayan.  Per-[]
+ []
+
+
+Underfull \hbox (badness 1609) in paragraph at lines 41--45
+[]\TU/TimesNewRoman(0)/m/n/12 formance analysis of intelligent reflective surfa
+ces for wireless communication.[]
+ []
+
+
+Underfull \hbox (badness 1831) in paragraph at lines 82--86
+[][]\TU/TimesNewRoman(0)/m/n/12 Qingqing Wu, Shuowen Zhang, Beixiong Zheng Chan
+gsheng You and Zhang,[]
+ []
+
+
+Underfull \hbox (badness 1354) in paragraph at lines 82--86
+[]\TU/TimesNewRoman(0)/m/n/12 Rui.  Intelligent reflecting surface aided wirele
+ss communications: A tutorial.[]
+ []
+
+[57
+
+
+
+])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[58]
 \openout2 = `appendix1.aux'.
 
- (appendix1.tex
-LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
-(Font)              scaled to size 29.85593pt on input line 1.
-) [57
-
-
+ (appendix1.tex) [59
 
 
 ]
@@ -2053,7 +2092,7 @@ Missing character: There is no p in font B Nazanin/OT:language=dflt;script=arab
 ;mapping=persian-tex-text;!
 Missing character: There is no p in font B Nazanin/OT:language=dflt;script=arab
 ;mapping=persian-tex-text;!
-[58
+[60
 
 
 
@@ -2071,7 +2110,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[59])
+[61])
 \openout2 = `dicen2fa.aux'.
 
  (dicen2fa.tex
@@ -2079,7 +2118,7 @@ Missing character: There is no p in font B Nazanin/OT:language=dflt;script=arab
 ;mapping=persian-tex-text;!
 Missing character: There is no p in font B Nazanin/OT:language=dflt;script=arab
 ;mapping=persian-tex-text;!
-[60
+[62
 
 
 
@@ -2098,11 +2137,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[61]
+[63]
 No file AUTthesis.ind.
 \openout2 = `en-abstract.aux'.
 
-(en-abstract.tex) [62
+(en-abstract.tex) [64
 
 
 
@@ -2110,15 +2149,15 @@ No file AUTthesis.ind.
 (chapter2.aux) (chapter3.aux) (chapter4.aux) (chapter5.aux) (appendix1.aux)
 (dicfa2en.aux) (dicen2fa.aux) (en-abstract.aux))
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: C6DE6DCAE45AE72287EFA1C519BCB500;24148.
+(rerunfilecheck)             Checksum: ABAFAC76638689BD11C8076A843092E3;24268.
  ) 
 Here is how much of TeX's memory you used:
- 21120 strings out of 410532
- 421214 string characters out of 2813704
+ 21119 strings out of 410532
+ 421109 string characters out of 2813704
  864404 words of memory out of 3000000
- 41779 multiletter control sequences out of 15000+600000
- 478898 words of font info for 124 fonts, out of 8000000 for 9000
+ 41782 multiletter control sequences out of 15000+600000
+ 478198 words of font info for 122 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 92i,16n,94p,2408b,516s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 92i,16n,94p,2408b,541s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on AUTthesis.pdf (76 pages).
+Output written on AUTthesis.pdf (79 pages).

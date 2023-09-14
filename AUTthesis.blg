@@ -2,21 +2,17 @@ This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: AUTthesis.aux
 Reallocating 'name_of_file' (item size: 1) to 13 items.
-A level-1 auxiliary file: chapter6.aux
+A level-1 auxiliary file: chapter1.aux
 Reallocating 'name_of_file' (item size: 1) to 13 items.
-A level-1 auxiliary file: chapter7.aux
+A level-1 auxiliary file: chapter2.aux
 Reallocating 'name_of_file' (item size: 1) to 13 items.
-A level-1 auxiliary file: chapter8.aux
+A level-1 auxiliary file: chapter3.aux
 Reallocating 'name_of_file' (item size: 1) to 13 items.
-A level-1 auxiliary file: chapter9.aux
-Reallocating 'name_of_file' (item size: 1) to 14 items.
-A level-1 auxiliary file: chapter10.aux
+A level-1 auxiliary file: chapter4.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: chapter5.aux
 Reallocating 'name_of_file' (item size: 1) to 9 items.
-I couldn't open style file plain-fa.bst
----line 32 of file AUTthesis.aux
- : \bibstyle{plain-fa
- :                   }
-I'm skipping whatever remains of this command
+The style file: plain-fa.bst
 Reallocating 'name_of_file' (item size: 1) to 11 items.
 Reallocating 'name_of_file' (item size: 1) to 14 items.
 A level-1 auxiliary file: appendix1.aux
@@ -26,47 +22,150 @@ Reallocating 'name_of_file' (item size: 1) to 13 items.
 A level-1 auxiliary file: dicen2fa.aux
 Reallocating 'name_of_file' (item size: 1) to 16 items.
 A level-1 auxiliary file: en-abstract.aux
-I found no \citation commands---while reading file AUTthesis.aux
-I found no style file---while reading file AUTthesis.aux
-You've used 0 entries,
-            0 wiz_defined-function locations,
-            94 strings with 623 characters,
-and the built_in function-call counts, 0 in all, are:
-= -- 0
-> -- 0
+Database file #1: references.bib
+Name 1 in "Qingqing Wu, Shuowen Zhang, Beixiong Zheng, Changsheng You, and Rui Zhang" has a comma at the end for entry 3
+while executing---line 1324 of file plain-fa.bst
+Too many commas in name 1 of "Qingqing Wu, Shuowen Zhang, Beixiong Zheng, Changsheng You, and Rui Zhang" for entry 3
+while executing---line 1324 of file plain-fa.bst
+Name 1 in "Marzieh Najafi, Student Member, IEEE, Vahid Jamali, Member, IEEE, Robert Schober, Fellow, IEEE, and H. Vincent Poor, Fellow, IEEE" has a comma at the end for entry 5
+while executing---line 1324 of file plain-fa.bst
+Too many commas in name 1 of "Marzieh Najafi, Student Member, IEEE, Vahid Jamali, Member, IEEE, Robert Schober, Fellow, IEEE, and H. Vincent Poor, Fellow, IEEE" for entry 5
+while executing---line 1324 of file plain-fa.bst
+Too many commas in name 1 of "Marzieh Najafi, Student Member, IEEE, Vahid Jamali, Member, IEEE, Robert Schober, Fellow, IEEE, and H. Vincent Poor, Fellow, IEEE" for entry 5
+while executing---line 1324 of file plain-fa.bst
+Too many commas in name 1 of "Marzieh Najafi, Student Member, IEEE, Vahid Jamali, Member, IEEE, Robert Schober, Fellow, IEEE, and H. Vincent Poor, Fellow, IEEE" for entry 5
+while executing---line 1324 of file plain-fa.bst
+Too many commas in name 1 of "Marzieh Najafi, Student Member, IEEE, Vahid Jamali, Member, IEEE, Robert Schober, Fellow, IEEE, and H. Vincent Poor, Fellow, IEEE" for entry 5
+while executing---line 1324 of file plain-fa.bst
+Too many commas in name 1 of "Marzieh Najafi, Student Member, IEEE, Vahid Jamali, Member, IEEE, Robert Schober, Fellow, IEEE, and H. Vincent Poor, Fellow, IEEE" for entry 5
+while executing---line 1324 of file plain-fa.bst
+Too many commas in name 1 of "Marzieh Najafi, Student Member, IEEE, Vahid Jamali, Member, IEEE, Robert Schober, Fellow, IEEE, and H. Vincent Poor, Fellow, IEEE" for entry 5
+while executing---line 1324 of file plain-fa.bst
+Name 1 in "Pouya Agheli, Hamzeh Beyranvand, and Mohammad Javad Emadi" has a comma at the end for entry 7
+while executing---line 1324 of file plain-fa.bst
+Name 1 in "Yitao Han, Student Member, IEEE, Shuowen Zhang, Member, IEEE, Lingjie Duan, Senior Member, IEEE, and Rui Zhang, Fellow, IEEE" has a comma at the end for entry 8
+while executing---line 1324 of file plain-fa.bst
+Too many commas in name 1 of "Yitao Han, Student Member, IEEE, Shuowen Zhang, Member, IEEE, Lingjie Duan, Senior Member, IEEE, and Rui Zhang, Fellow, IEEE" for entry 8
+while executing---line 1324 of file plain-fa.bst
+Too many commas in name 1 of "Yitao Han, Student Member, IEEE, Shuowen Zhang, Member, IEEE, Lingjie Duan, Senior Member, IEEE, and Rui Zhang, Fellow, IEEE" for entry 8
+while executing---line 1324 of file plain-fa.bst
+Too many commas in name 1 of "Yitao Han, Student Member, IEEE, Shuowen Zhang, Member, IEEE, Lingjie Duan, Senior Member, IEEE, and Rui Zhang, Fellow, IEEE" for entry 8
+while executing---line 1324 of file plain-fa.bst
+Too many commas in name 1 of "Yitao Han, Student Member, IEEE, Shuowen Zhang, Member, IEEE, Lingjie Duan, Senior Member, IEEE, and Rui Zhang, Fellow, IEEE" for entry 8
+while executing---line 1324 of file plain-fa.bst
+Too many commas in name 1 of "Yitao Han, Student Member, IEEE, Shuowen Zhang, Member, IEEE, Lingjie Duan, Senior Member, IEEE, and Rui Zhang, Fellow, IEEE" for entry 8
+while executing---line 1324 of file plain-fa.bst
+Too many commas in name 1 of "Yitao Han, Student Member, IEEE, Shuowen Zhang, Member, IEEE, Lingjie Duan, Senior Member, IEEE, and Rui Zhang, Fellow, IEEE" for entry 8
+while executing---line 1324 of file plain-fa.bst
+Name 1 in "Changsheng You, Member, IEEE, Beixiong Zheng, Member, IEEE, and Rui Zhang, Fellow, IEEE" has a comma at the end for entry 9
+while executing---line 1324 of file plain-fa.bst
+Too many commas in name 1 of "Changsheng You, Member, IEEE, Beixiong Zheng, Member, IEEE, and Rui Zhang, Fellow, IEEE" for entry 9
+while executing---line 1324 of file plain-fa.bst
+Too many commas in name 1 of "Changsheng You, Member, IEEE, Beixiong Zheng, Member, IEEE, and Rui Zhang, Fellow, IEEE" for entry 9
+while executing---line 1324 of file plain-fa.bst
+Too many commas in name 1 of "Changsheng You, Member, IEEE, Beixiong Zheng, Member, IEEE, and Rui Zhang, Fellow, IEEE" for entry 9
+while executing---line 1324 of file plain-fa.bst
+Name 1 in "Beixiong Zheng, Member, IEEE, Changsheng You, Member, IEEE, and Rui Zhang, Fellow, IEEE" has a comma at the end for entry 11
+while executing---line 1324 of file plain-fa.bst
+Too many commas in name 1 of "Beixiong Zheng, Member, IEEE, Changsheng You, Member, IEEE, and Rui Zhang, Fellow, IEEE" for entry 11
+while executing---line 1324 of file plain-fa.bst
+Too many commas in name 1 of "Beixiong Zheng, Member, IEEE, Changsheng You, Member, IEEE, and Rui Zhang, Fellow, IEEE" for entry 11
+while executing---line 1324 of file plain-fa.bst
+Too many commas in name 1 of "Beixiong Zheng, Member, IEEE, Changsheng You, Member, IEEE, and Rui Zhang, Fellow, IEEE" for entry 11
+while executing---line 1324 of file plain-fa.bst
+-- plain-fa.bst version 0.6 (2011/07/01) 
+-- This is a BibTeX style for XePersian: http://www.parsilatex.com
+Name 1 in "Beixiong Zheng, Member, IEEE, Changsheng You, Member, IEEE, and Rui Zhang, Fellow, IEEE" has a comma at the end for entry 11
+while executing---line 1373 of file plain-fa.bst
+Too many commas in name 1 of "Beixiong Zheng, Member, IEEE, Changsheng You, Member, IEEE, and Rui Zhang, Fellow, IEEE" for entry 11
+while executing---line 1373 of file plain-fa.bst
+Too many commas in name 1 of "Beixiong Zheng, Member, IEEE, Changsheng You, Member, IEEE, and Rui Zhang, Fellow, IEEE" for entry 11
+while executing---line 1373 of file plain-fa.bst
+Too many commas in name 1 of "Beixiong Zheng, Member, IEEE, Changsheng You, Member, IEEE, and Rui Zhang, Fellow, IEEE" for entry 11
+while executing---line 1373 of file plain-fa.bst
+Name 1 in "Changsheng You, Member, IEEE, Beixiong Zheng, Member, IEEE, and Rui Zhang, Fellow, IEEE" has a comma at the end for entry 9
+while executing---line 1373 of file plain-fa.bst
+Too many commas in name 1 of "Changsheng You, Member, IEEE, Beixiong Zheng, Member, IEEE, and Rui Zhang, Fellow, IEEE" for entry 9
+while executing---line 1373 of file plain-fa.bst
+Too many commas in name 1 of "Changsheng You, Member, IEEE, Beixiong Zheng, Member, IEEE, and Rui Zhang, Fellow, IEEE" for entry 9
+while executing---line 1373 of file plain-fa.bst
+Too many commas in name 1 of "Changsheng You, Member, IEEE, Beixiong Zheng, Member, IEEE, and Rui Zhang, Fellow, IEEE" for entry 9
+while executing---line 1373 of file plain-fa.bst
+Name 1 in "Marzieh Najafi, Student Member, IEEE, Vahid Jamali, Member, IEEE, Robert Schober, Fellow, IEEE, and H. Vincent Poor, Fellow, IEEE" has a comma at the end for entry 5
+while executing---line 1373 of file plain-fa.bst
+Too many commas in name 1 of "Marzieh Najafi, Student Member, IEEE, Vahid Jamali, Member, IEEE, Robert Schober, Fellow, IEEE, and H. Vincent Poor, Fellow, IEEE" for entry 5
+while executing---line 1373 of file plain-fa.bst
+Too many commas in name 1 of "Marzieh Najafi, Student Member, IEEE, Vahid Jamali, Member, IEEE, Robert Schober, Fellow, IEEE, and H. Vincent Poor, Fellow, IEEE" for entry 5
+while executing---line 1373 of file plain-fa.bst
+Too many commas in name 1 of "Marzieh Najafi, Student Member, IEEE, Vahid Jamali, Member, IEEE, Robert Schober, Fellow, IEEE, and H. Vincent Poor, Fellow, IEEE" for entry 5
+while executing---line 1373 of file plain-fa.bst
+Too many commas in name 1 of "Marzieh Najafi, Student Member, IEEE, Vahid Jamali, Member, IEEE, Robert Schober, Fellow, IEEE, and H. Vincent Poor, Fellow, IEEE" for entry 5
+while executing---line 1373 of file plain-fa.bst
+Too many commas in name 1 of "Marzieh Najafi, Student Member, IEEE, Vahid Jamali, Member, IEEE, Robert Schober, Fellow, IEEE, and H. Vincent Poor, Fellow, IEEE" for entry 5
+while executing---line 1373 of file plain-fa.bst
+Too many commas in name 1 of "Marzieh Najafi, Student Member, IEEE, Vahid Jamali, Member, IEEE, Robert Schober, Fellow, IEEE, and H. Vincent Poor, Fellow, IEEE" for entry 5
+while executing---line 1373 of file plain-fa.bst
+Name 1 in "Pouya Agheli, Hamzeh Beyranvand, and Mohammad Javad Emadi" has a comma at the end for entry 7
+while executing---line 1373 of file plain-fa.bst
+Name 1 in "Qingqing Wu, Shuowen Zhang, Beixiong Zheng, Changsheng You, and Rui Zhang" has a comma at the end for entry 3
+while executing---line 1373 of file plain-fa.bst
+Too many commas in name 1 of "Qingqing Wu, Shuowen Zhang, Beixiong Zheng, Changsheng You, and Rui Zhang" for entry 3
+while executing---line 1373 of file plain-fa.bst
+Name 1 in "Yitao Han, Student Member, IEEE, Shuowen Zhang, Member, IEEE, Lingjie Duan, Senior Member, IEEE, and Rui Zhang, Fellow, IEEE" has a comma at the end for entry 8
+while executing---line 1373 of file plain-fa.bst
+Too many commas in name 1 of "Yitao Han, Student Member, IEEE, Shuowen Zhang, Member, IEEE, Lingjie Duan, Senior Member, IEEE, and Rui Zhang, Fellow, IEEE" for entry 8
+while executing---line 1373 of file plain-fa.bst
+Too many commas in name 1 of "Yitao Han, Student Member, IEEE, Shuowen Zhang, Member, IEEE, Lingjie Duan, Senior Member, IEEE, and Rui Zhang, Fellow, IEEE" for entry 8
+while executing---line 1373 of file plain-fa.bst
+Too many commas in name 1 of "Yitao Han, Student Member, IEEE, Shuowen Zhang, Member, IEEE, Lingjie Duan, Senior Member, IEEE, and Rui Zhang, Fellow, IEEE" for entry 8
+while executing---line 1373 of file plain-fa.bst
+Too many commas in name 1 of "Yitao Han, Student Member, IEEE, Shuowen Zhang, Member, IEEE, Lingjie Duan, Senior Member, IEEE, and Rui Zhang, Fellow, IEEE" for entry 8
+while executing---line 1373 of file plain-fa.bst
+Too many commas in name 1 of "Yitao Han, Student Member, IEEE, Shuowen Zhang, Member, IEEE, Lingjie Duan, Senior Member, IEEE, and Rui Zhang, Fellow, IEEE" for entry 8
+while executing---line 1373 of file plain-fa.bst
+Too many commas in name 1 of "Yitao Han, Student Member, IEEE, Shuowen Zhang, Member, IEEE, Lingjie Duan, Senior Member, IEEE, and Rui Zhang, Fellow, IEEE" for entry 8
+while executing---line 1373 of file plain-fa.bst
+
+Done.
+You've used 11 entries,
+            2535 wiz_defined-function locations,
+            678 strings with 7165 characters,
+and the built_in function-call counts, 3007 in all, are:
+= -- 262
+> -- 137
 < -- 0
-+ -- 0
-- -- 0
-* -- 0
-:= -- 0
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
++ -- 53
+- -- 42
+* -- 141
+:= -- 498
+add.period$ -- 33
+call.type$ -- 11
+change.case$ -- 66
 chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 0
-format.name$ -- 0
-if$ -- 0
+cite$ -- 11
+duplicate$ -- 114
+empty$ -- 198
+format.name$ -- 42
+if$ -- 688
 int.to.chr$ -- 0
-int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 0
-num.names$ -- 0
-pop$ -- 0
-preamble$ -- 0
-purify$ -- 0
+int.to.str$ -- 11
+missing$ -- 90
+newline$ -- 105
+num.names$ -- 22
+pop$ -- 62
+preamble$ -- 1
+purify$ -- 43
 quote$ -- 0
-skip$ -- 0
+skip$ -- 84
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
+substring$ -- 55
+swap$ -- 11
 text.length$ -- 0
 text.prefix$ -- 0
-top$ -- 0
-type$ -- 0
+top$ -- 4
+type$ -- 40
 warning$ -- 0
-while$ -- 0
-width$ -- 0
-write$ -- 0
-(There were 3 error messages)
+while$ -- 22
+width$ -- 13
+write$ -- 148
+(There were 50 error messages)
