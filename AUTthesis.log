@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.10) (preloaded format=xelatex 2022.11.17)  14 SEP 2023 04:16
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.10) (preloaded format=xelatex 2022.11.17)  14 SEP 2023 04:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1793,7 +1793,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: ./images//AO.jpg Graphic file (type bmp)
 <./images//AO.jpg>
 
-Overfull \hbox (4.72969pt too wide) in paragraph at lines 82--83
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (4.72969pt too wide) in paragraph at lines 84--85
 []\TU/BNazanin(0)/m/n/12 یکی از مشکلاتی که در این مسئله بهینه‌سازی و همه مسائل 
 مرتبط با بهینه‌سازی حداکثر نرخ قابل‌دسترسی[]
  []
@@ -1878,7 +1882,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[45])
+[45]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1887,7 +1891,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[46]
+[46])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[47]
 \openout2 = `chapter5.aux'.
 
  (chapter5.tex
@@ -1900,7 +1913,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[47
+[48
 
 
 
@@ -1914,7 +1927,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[48]
+[49]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1923,7 +1936,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[49]
+[50]
 File: ./images//No Blockage First User's Rate.jpg Graphic file (type bmp)
 <./images//No Blockage First User's Rate.jpg>
 
@@ -1958,7 +1971,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[50]
+[51]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1967,7 +1980,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[51]
+[52]
 File: ./images//With Blockage First User's Rate.jpg Graphic file (type bmp)
 <./images//With Blockage First User's Rate.jpg>
 
@@ -2002,15 +2015,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[52]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
 [53]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2029,7 +2033,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[55])
+[55]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2038,34 +2042,43 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[56] (AUTthesis.bbl
+[56])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[57] (AUTthesis.bbl
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 (Font)              scaled to size 29.85593pt on input line 4.
 
-Underfull \hbox (badness 1205) in paragraph at lines 41--45
-[][]\TU/TimesNewRoman(0)/m/n/12 Dhanushka Kudathanthirige, Dulaj Gunasinghe and
- Amarasuriya, Gayan.  Per-[]
- []
-
-
-Underfull \hbox (badness 1609) in paragraph at lines 41--45
-[]\TU/TimesNewRoman(0)/m/n/12 formance analysis of intelligent reflective surfa
-ces for wireless communication.[]
- []
-
-
-Underfull \hbox (badness 1831) in paragraph at lines 82--86
+Underfull \hbox (badness 1831) in paragraph at lines 28--32
 [][]\TU/TimesNewRoman(0)/m/n/12 Qingqing Wu, Shuowen Zhang, Beixiong Zheng Chan
 gsheng You and Zhang,[]
  []
 
 
-Underfull \hbox (badness 1354) in paragraph at lines 82--86
+Underfull \hbox (badness 1354) in paragraph at lines 28--32
 []\TU/TimesNewRoman(0)/m/n/12 Rui.  Intelligent reflecting surface aided wirele
 ss communications: A tutorial.[]
  []
 
-[57
+
+Underfull \hbox (badness 1205) in paragraph at lines 38--42
+[][]\TU/TimesNewRoman(0)/m/n/12 Dhanushka Kudathanthirige, Dulaj Gunasinghe and
+ Amarasuriya, Gayan.  Per-[]
+ []
+
+
+Underfull \hbox (badness 1609) in paragraph at lines 38--42
+[]\TU/TimesNewRoman(0)/m/n/12 formance analysis of intelligent reflective surfa
+ces for wireless communication.[]
+ []
+
+[58
 
 
 
@@ -2078,10 +2091,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[58]
+[59]
 \openout2 = `appendix1.aux'.
 
- (appendix1.tex) [59
+ (appendix1.tex) [60
 
 
 ]
@@ -2092,7 +2105,7 @@ Missing character: There is no p in font B Nazanin/OT:language=dflt;script=arab
 ;mapping=persian-tex-text;!
 Missing character: There is no p in font B Nazanin/OT:language=dflt;script=arab
 ;mapping=persian-tex-text;!
-[60
+[61
 
 
 
@@ -2110,7 +2123,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[61])
+[62])
 \openout2 = `dicen2fa.aux'.
 
  (dicen2fa.tex
@@ -2118,7 +2131,7 @@ Missing character: There is no p in font B Nazanin/OT:language=dflt;script=arab
 ;mapping=persian-tex-text;!
 Missing character: There is no p in font B Nazanin/OT:language=dflt;script=arab
 ;mapping=persian-tex-text;!
-[62
+[63
 
 
 
@@ -2137,11 +2150,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[63]
+[64]
 No file AUTthesis.ind.
 \openout2 = `en-abstract.aux'.
 
-(en-abstract.tex) [64
+(en-abstract.tex) [65
 
 
 
@@ -2152,12 +2165,12 @@ Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
 (rerunfilecheck)             Checksum: ABAFAC76638689BD11C8076A843092E3;24268.
  ) 
 Here is how much of TeX's memory you used:
- 21119 strings out of 410532
- 421109 string characters out of 2813704
+ 21123 strings out of 410532
+ 421125 string characters out of 2813704
  864404 words of memory out of 3000000
- 41782 multiletter control sequences out of 15000+600000
+ 41786 multiletter control sequences out of 15000+600000
  478198 words of font info for 122 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  92i,16n,94p,2408b,541s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on AUTthesis.pdf (79 pages).
+Output written on AUTthesis.pdf (80 pages).

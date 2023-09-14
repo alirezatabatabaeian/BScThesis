@@ -78,32 +78,32 @@
 \contentsline {section}{\numberline {4-2}الگوریتم بهینه‌سازی متناوب}{37}{section.4.2}%
 \contentsline {subsection}{\numberline {4-2-1}تعریف}{37}{subsection.4.2.1}%
 \contentsline {subsection}{\numberline {4-2-2}استفاده}{37}{subsection.4.2.2}%
-\contentsline {section}{\numberline {4-3}تبدیل دوگان لاگرانژی}{38}{section.4.3}%
+\contentsline {section}{\numberline {4-3}تبدیل دوگان لاگرانژی}{37}{section.4.3}%
 \contentsline {subsection}{\numberline {4-3-1}تعریف}{38}{subsection.4.3.1}%
 \contentsline {subsection}{\numberline {4-3-2}ساده‌سازی مسئله}{38}{subsection.4.3.2}%
 \contentsline {section}{\numberline {4-4}برنامه‌ریزی چند کسری}{39}{section.4.4}%
-\contentsline {subsection}{\numberline {4-4-1}تعریف}{39}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4-4-1}تعریف}{40}{subsection.4.4.1}%
 \contentsline {subsection}{\numberline {4-4-2}ساده‌سازی مسئله}{40}{subsection.4.4.2}%
 \contentsline {section}{\numberline {4-5}بهینه‌سازی ضرایب آنتن}{40}{section.4.5}%
-\contentsline {subsection}{\numberline {4-5-1}مقدار بتا بهینه}{40}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4-5-1}مقدار بتا بهینه}{41}{subsection.4.5.1}%
 \contentsline {subsection}{\numberline {4-5-2}مقدار بهینه بردار آنتن}{41}{subsection.4.5.2}%
 \contentsline {subsection}{\numberline {4-5-3}روش جستجوی دوبخشی}{41}{subsection.4.5.3}%
-\contentsline {subsection}{\numberline {4-5-4}حد بالای لامبدا}{41}{subsection.4.5.4}%
+\contentsline {subsection}{\numberline {4-5-4}حد بالای لامبدا}{42}{subsection.4.5.4}%
 \contentsline {section}{\numberline {4-6}بهینه‌سازی ضرایب فاز سطوح هوشمند}{42}{section.4.6}%
 \contentsline {subsection}{\numberline {4-6-1}مقدار اپسیلون بهینه}{43}{subsection.4.6.1}%
-\contentsline {subsection}{\numberline {4-6-2}روش گرادیان نزولی}{43}{subsection.4.6.2}%
-\contentsline {subsection}{\numberline {4-6-3}ضرایب بهینه سطوح هوشمند یک و دو}{44}{subsection.4.6.3}%
-\contentsline {subsection}{\numberline {4-6-4}سه ناحیه اصلی بهینه‌سازی ضرایب فاز}{45}{subsection.4.6.4}%
-\contentsline {chapter}{\numberline {5}نتایج و پیشنهادات}{47}{chapter.5}%
-\contentsline {section}{\numberline {5-1}نتایج}{49}{section.5.1}%
-\contentsline {subsection}{\numberline {5-1-1}نتایج و تحلیل بهینه‌سازی بدون مانع}{50}{subsection.5.1.1}%
-\contentsline {subsection}{\numberline {5-1-2}نتایج و تحلیل بهینه‌سازی با مانع}{52}{subsection.5.1.2}%
-\contentsline {section}{\numberline {5-2}پیشنهادات}{54}{section.5.2}%
-\contentsline {subsection}{\numberline {5-2-1}بازتاب مرتبه 3}{54}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5-2-2}ساخت فریم‌ورک برای بهینه‌سازی سطوح هوشمند}{54}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5-2-3}پیدا کردن طول گام بهینه}{55}{subsection.5.2.3}%
-\contentsline {chapter}{کتاب‌نامه}{57}{appendix*.17}%
-\contentsline {chapter}{پیوست}{59}{appendix*.18}%
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{60}{appendix*.19}%
-\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{62}{appendix*.20}%
+\contentsline {subsection}{\numberline {4-6-2}روش گرادیان نزولی}{44}{subsection.4.6.2}%
+\contentsline {subsection}{\numberline {4-6-3}ضرایب بهینه سطوح هوشمند یک و دو}{45}{subsection.4.6.3}%
+\contentsline {subsection}{\numberline {4-6-4}سه ناحیه اصلی بهینه‌سازی ضرایب فاز}{46}{subsection.4.6.4}%
+\contentsline {chapter}{\numberline {5}نتایج و پیشنهادات}{48}{chapter.5}%
+\contentsline {section}{\numberline {5-1}نتایج}{50}{section.5.1}%
+\contentsline {subsection}{\numberline {5-1-1}نتایج و تحلیل بهینه‌سازی بدون مانع}{51}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5-1-2}نتایج و تحلیل بهینه‌سازی با مانع}{53}{subsection.5.1.2}%
+\contentsline {section}{\numberline {5-2}پیشنهادات}{55}{section.5.2}%
+\contentsline {subsection}{\numberline {5-2-1}بازتاب مرتبه 3}{55}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5-2-2}ساخت فریم‌ورک برای بهینه‌سازی سطوح هوشمند}{55}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5-2-3}پیدا کردن طول گام بهینه}{56}{subsection.5.2.3}%
+\contentsline {chapter}{کتاب‌نامه}{58}{appendix*.17}%
+\contentsline {chapter}{پیوست}{60}{appendix*.18}%
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{61}{appendix*.19}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{63}{appendix*.20}%
 \contentsfinish 
