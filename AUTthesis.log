@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.10) (preloaded format=xelatex 2022.11.17)  14 SEP 2023 04:40
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.10) (preloaded format=xelatex 2022.11.17)  14 SEP 2023 16:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2162,7 +2162,7 @@ No file AUTthesis.ind.
 (chapter2.aux) (chapter3.aux) (chapter4.aux) (chapter5.aux) (appendix1.aux)
 (dicfa2en.aux) (dicen2fa.aux) (en-abstract.aux))
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: ABAFAC76638689BD11C8076A843092E3;24268.
+(rerunfilecheck)             Checksum: 8D546005AB68183C0DB0B1AFAED8C104;24300.
  ) 
 Here is how much of TeX's memory you used:
  21123 strings out of 410532

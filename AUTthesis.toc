@@ -102,7 +102,7 @@
 \contentsline {subsection}{\numberline {5-2-1}بازتاب مرتبه 3}{55}{subsection.5.2.1}%
 \contentsline {subsection}{\numberline {5-2-2}ساخت فریم‌ورک برای بهینه‌سازی سطوح هوشمند}{55}{subsection.5.2.2}%
 \contentsline {subsection}{\numberline {5-2-3}پیدا کردن طول گام بهینه}{56}{subsection.5.2.3}%
-\contentsline {chapter}{کتاب‌نامه}{58}{appendix*.17}%
+\contentsline {chapter}{منابع و مراجع}{58}{appendix*.17}%
 \contentsline {chapter}{پیوست}{60}{appendix*.18}%
 \contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{61}{appendix*.19}%
 \contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{63}{appendix*.20}%
